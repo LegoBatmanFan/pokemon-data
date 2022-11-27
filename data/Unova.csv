@@ -1,0 +1,183 @@
+﻿num,name,poke_type,attacks,hp,attack,defense,max_cp,max_buddy_cp,region,type1,type2,boost1,boost2,boost
+494,Victini, psychic  fire ," Confusion, Quick Attack, Overheat, Focus Blast, Psychic, V-create,",225,210,210,3691,3735,Unova,psychic,fire,windy,sunny/clear,windy sunny/clear
+495,Snivy, grass ," Tackle, Vine Whip, Energy Ball, Seed Bomb, Wrap,",128,88,107,960,972,Unova,grass,,sunny/clear,,sunny/clear 
+496,Servine, grass ," Iron Tail, Vine Whip, Grass Knot, Leaf Tornado, Wrap,",155,122,152,1629,1649,Unova,grass,,sunny/clear,,sunny/clear 
+497,Serperior, grass ," Iron Tail, Vine Whip, Grass Knot, Leaf Tornado, Aerial Ace,",181,161,204,2574,2605,Unova,grass,,sunny/clear,,sunny/clear 
+498,Tepig, fire ," Tackle, Ember, Flame Charge, Flamethrower, Body Slam,",163,115,85,1224,1239,Unova,fire,,sunny/clear,,sunny/clear 
+499,Pignite, fire  fighting ," Tackle, Ember, Flame Charge, Flamethrower, Rock Tomb,",207,173,106,2175,2201,Unova,fire,fighting,sunny/clear,cloudy,sunny/clear cloudy
+500,Emboar, fire  fighting ," Low Kick, Ember, Heat Wave, Rock Slide, Focus Blast, Flame Charge,",242,235,127,3372,3412,Unova,fire,fighting,sunny/clear,cloudy,sunny/clear cloudy
+501,Oshawott, water ," Tackle, Water Gun, Aqua Tail, Water Pulse, Night Slash,",146,117,85,1182,1196,Unova,water,,rain,,rain 
+502,Dewott, water ," Fury Cutter, Water Gun, Aqua Tail, Water Pulse, X-Scissor,",181,159,116,1968,1992,Unova,water,,rain,,rain 
+503,Samurott, water ," Fury Cutter, Waterfall, Hydro Pump, Blizzard, Megahorn, Razor Shell,",216,212,157,3195,3233,Unova,water,,rain,,rain 
+503,Samurott (Hisuian Form) , water  dark ,,172,208,159,2840,2874,Unova,water,dark,rain,fog,rain fog
+504,Patrat, normal ," Tackle, Bite, Dig, Hyper Fang, Grass Knot,",128,98,73,895,905,Unova,normal,,partly cloudy,,partly cloudy 
+505,Watchog, normal ," Low Kick, Bite, Crunch, Hyper Fang, Grass Knot,",155,165,139,2056,2081,Unova,normal,,partly cloudy,,partly cloudy 
+506,Lillipup, normal ," Tackle, Take Down, Thunderbolt, Rock Tomb, Dig,",128,107,86,1035,1047,Unova,normal,,partly cloudy,,partly cloudy 
+507,Herdier, normal ," Lick, Take Down, Thunderbolt, Play Rough, Dig,",163,145,126,1789,1811,Unova,normal,,partly cloudy,,partly cloudy 
+508,Stoutland, normal ," Lick, Take Down, Ice Fang, Wild Charge, Play Rough, Crunch,",198,206,182,3196,3234,Unova,normal,,partly cloudy,,partly cloudy 
+509,Purrloin, dark ," Scratch, Sucker Punch, Night Slash, Play Rough, Dark Pulse,",121,98,73,872,883,Unova,dark,,fog,,fog 
+510,Liepard, dark ," Charm, Snarl, Gunk Shot, Play Rough, Dark Pulse, Payback,",162,187,106,2087,2112,Unova,dark,,fog,,fog 
+511,Pansage, grass ," Scratch, Vine Whip, Energy Ball, Seed Bomb, Crunch,",137,104,94,1081,1094,Unova,grass,,sunny/clear,,sunny/clear 
+512,Simisage, grass ," Bite, Vine Whip, Solar Beam, Grass Knot, Crunch,",181,206,133,2657,2689,Unova,grass,,sunny/clear,,sunny/clear 
+513,Pansear, fire ," Scratch, Fire Spin, Flame Burst, Flame Charge, Crunch,",137,104,94,1081,1094,Unova,fire,,sunny/clear,,sunny/clear 
+514,Simisear, fire ," Bite, Fire Spin, Flamethrower, Fire Blast, Crunch,",181,206,133,2657,2689,Unova,fire,,sunny/clear,,sunny/clear 
+515,Panpour, water ," Scratch, Water Gun, Surf, Water Pulse, Crunch,",137,104,94,1081,1094,Unova,water,,rain,,rain 
+516,Simipour, water ," Bite, Water Gun, Surf, Hydro Pump, Crunch,",181,206,133,2657,2689,Unova,water,,rain,,rain 
+517,Munna, psychic ," Zen Headbutt, Charge Beam, Psybeam, Dazzling Gleam, Psyshock,",183,111,92,1294,1310,Unova,psychic,,windy,,windy 
+518,Musharna, psychic ," Zen Headbutt, Charge Beam, Future Sight, Dazzling Gleam, Psyshock,",253,183,166,3079,3116,Unova,psychic,,windy,,windy 
+519,Pidove, normal  flying ," Quick Attack, Air Slash, Heat Wave, Aerial Ace, Air Cutter,",137,98,80,958,970,Unova,normal,flying,partly cloudy,windy,partly cloudy windy
+520,Tranquill, normal  flying ," Air Slash, Steel Wing, Heat Wave, Aerial Ace, Sky Attack,",158,144,107,1631,1650,Unova,normal,flying,partly cloudy,windy,partly cloudy windy
+521,Unfezant, normal  flying ," Air Slash, Steel Wing, Heat Wave, Hyper Beam, Sky Attack,",190,226,146,3091,3128,Unova,normal,flying,partly cloudy,windy,partly cloudy windy
+522,Blitzle, electric ," Quick Attack, Spark, Flame Charge, Discharge, Thunderbolt,",128,118,64,998,1010,Unova,electric,,rain,,rain 
+523,Zebstrika, electric ," Low Kick, Spark, Flame Charge, Discharge, Wild Charge,",181,211,136,2745,2778,Unova,electric,,rain,,rain 
+524,Roggenrola, rock ," Tackle, Smack Down, Bulldoze, Rock Blast, Stone Edge,",146,121,110,1362,1378,Unova,rock,,partly cloudy,,partly cloudy 
+525,Boldore, rock ," Mud Slap, Smack Down, Rock Slide, Bulldoze, Stone Edge,",172,174,143,2293,2321,Unova,rock,,partly cloudy,,partly cloudy 
+526,Gigalith, rock ," Mud Slap, Smack Down, Rock Slide, Solar Beam, Superpower, Heavy Slam,",198,226,201,3650,3693,Unova,rock,,partly cloudy,,partly cloudy 
+527,Woobat, psychic  flying ," Confusion, Air Slash, Air Cutter, Aerial Ace, Psyshock,",163,107,85,1149,1163,Unova,psychic,flying,windy,windy,windy windy
+528,Swoobat, psychic  flying ," Confusion, Air Slash, Psychic, Aerial Ace, Future Sight,",167,161,119,1940,1963,Unova,psychic,flying,windy,windy,windy windy
+529,Drilbur, ground ," Scratch, Mud Slap, Rock Tomb, Dig, Drill Run,",155,154,85,1555,1574,Unova,ground,,sunny/clear,,sunny/clear 
+530,Excadrill, ground  steel ," Metal Claw, Mud Slap, Mud Shot, Rock Slide, Earthquake, Drill Run, Iron Head,",242,255,129,3667,3711,Unova,ground,steel,sunny/clear,snow,sunny/clear snow
+531,Audino, normal ," Pound, Zen Headbutt, Disarming Voice, Dazzling Gleam, Hyper Beam,",230,114,163,1902,1924,Unova,normal,,partly cloudy,,partly cloudy 
+531,Mega Audino, normal  fairy ," Pound, Zen Headbutt, Disarming Voice, Dazzling Gleam, Hyper Beam,",230,147,239,2853,2887,Unova,normal,fairy,partly cloudy,cloudy,partly cloudy cloudy
+532,Timburr, fighting ," Low Kick, Pound, Low Sweep, Brick Break, Rock Tomb,",181,134,87,1487,1505,Unova,fighting,,cloudy,,cloudy 
+533,Gurdurr, fighting ," Low Kick, Poison Jab, Low Sweep, Brick Break, Stone Edge,",198,180,134,2453,2482,Unova,fighting,,cloudy,,cloudy 
+534,Conkeldurr, fighting ," Counter, Poison Jab, Dynamic Punch, Focus Blast, Stone Edge,",233,243,158,3773,3818,Unova,fighting,,cloudy,,cloudy 
+535,Tympole, water ," Mud Shot, Bubble, Water Pulse, Mud Bomb, Sludge Wave,",137,98,78,948,960,Unova,water,,rain,,rain 
+536,Palpitoad, water  ground ," Mud Shot, Bubble, Water Pulse, Earth Power, Sludge Wave,",181,128,109,1574,1592,Unova,water,ground,rain,sunny/clear,rain sunny/clear
+537,Seismitoad, water  ground ," Mud Shot, Bubble, Muddy Water, Earth Power, Sludge Bomb,",233,188,150,2899,2934,Unova,water,ground,rain,sunny/clear,rain sunny/clear
+538,Throh, fighting ," Low Kick, Zen Headbutt, Focus Blast, Low Sweep, Body Slam,",260,172,160,2896,2931,Unova,fighting,,cloudy,,cloudy 
+539,Sawk, fighting ," Low Kick, Poison Jab, Focus Blast, Low Sweep, Body Slam,",181,231,153,3151,3189,Unova,fighting,,cloudy,,cloudy 
+540,Sewaddle, bug  grass ," Struggle Bug, Bug Bite, Energy Ball, Seed Bomb, Silver Wind,",128,96,124,1105,1118,Unova,bug,grass,rain,sunny/clear,rain sunny/clear
+541,Swadloon, bug  grass ," Struggle Bug, Bug Bite, Energy Ball, Bug Buzz, Silver Wind,",146,115,162,1549,1568,Unova,bug,grass,rain,sunny/clear,rain sunny/clear
+542,Leavanny, bug  grass ," Razor Leaf, Bug Bite, Leaf Blade, X-Scissor, Silver Wind, Leaf Storm,",181,205,165,2917,2952,Unova,bug,grass,rain,sunny/clear,rain sunny/clear
+543,Venipede, bug  poison ," Bug Bite, Poison Sting, Signal Beam, Sludge Bomb, Gyro Ball,",102,83,99,799,808,Unova,bug,poison,rain,cloudy,rain cloudy
+544,Whirlipede, bug  poison ," Bug Bite, Poison Sting, Signal Beam, Sludge Bomb, Gyro Ball,",120,100,173,1293,1309,Unova,bug,poison,rain,cloudy,rain cloudy
+545,Scolipede, bug  poison ," Bug Bite, Poison Jab, Megahorn, Sludge Bomb, Gyro Ball, X-Scissor,",155,203,175,2766,2799,Unova,bug,poison,rain,cloudy,rain cloudy
+546,Cottonee, grass  fairy ," Charm, Razor Leaf, Energy Ball, Seed Bomb, Grass Knot,",120,71,111,791,801,Unova,grass,fairy,sunny/clear,cloudy,sunny/clear cloudy
+547,Whimsicott, grass  fairy ," Charm, Razor Leaf, Grass Knot, Hurricane, Moonblast,",155,164,176,2277,2304,Unova,grass,fairy,sunny/clear,cloudy,sunny/clear cloudy
+548,Petilil, grass ," Charm, Hidden Power, Energy Ball, Seed Bomb,",128,119,91,1164,1178,Unova,grass,,sunny/clear,,sunny/clear 
+549,Lilligant, grass ," Charm, Hidden Power, Petal Blizzard, Hyper Beam, Solar Beam,",172,214,155,2882,2917,Unova,grass,,sunny/clear,,sunny/clear 
+549,Lilligant (Hisuian Form) , grass  fighting ,,172,208,159,2840,2874,Unova,grass,fighting,sunny/clear,cloudy,sunny/clear cloudy
+550,Basculin, water ," Tackle, Water Gun, Aqua Jet, Aqua Tail, Muddy Water,",172,189,129,2363,2391,Unova,water,,rain,,rain 
+550,Basculin (Blue-Striped Form) , water ," Tackle, Water Gun, Aqua Jet, Aqua Tail, Muddy Water,",172,189,129,2363,2391,Unova,water,,rain,,rain 
+550,Basculin (Blue-Striped Form) , water ,,172,189,129,2363,2391,Unova,water,,rain,,rain 
+551,Sandile, ground  dark ," Bite, Mud Slap, Dig, Crunch, Bulldoze,",137,132,69,1172,1186,Unova,ground,dark,sunny/clear,fog,sunny/clear fog
+552,Krokorok, ground  dark ," Bite, Mud Slap, Earthquake, Crunch, Bulldoze,",155,155,90,1603,1622,Unova,ground,dark,sunny/clear,fog,sunny/clear fog
+553,Krookodile, ground  dark ," Snarl, Mud Slap, Earthquake, Crunch, Outrage,",216,229,158,3444,3485,Unova,ground,dark,sunny/clear,fog,sunny/clear fog
+554,Darumaka, fire ," Tackle, Fire Fang, Fire Punch, Flame Charge, Psychic,",172,153,86,1630,1649,Unova,fire,,sunny/clear,,sunny/clear 
+554,Darumaka (Galarian Form) , ice ," Tackle, Ice Fang, Ice Punch, Ice Beam,",172,153,86,1630,1649,Unova,ice,,snow,,snow 
+555,Darmanitan, fire ," Tackle, Fire Fang, Incinerate, Overheat, Focus Blast, Psychic, Rock Slide,",233,263,114,3511,3552,Unova,fire,,sunny/clear,,sunny/clear 
+555,Darmanitan (Zen Mode) , fire  psychic ," Tackle, Fire Fang, Overheat, Focus Blast, Psychic, Rock Slide,",233,243,202,4226,4276,Unova,fire,psychic,sunny/clear,windy,sunny/clear windy
+555,Darmanitan (Galarian Form) , ice ," Tackle, Ice Fang, Overheat, Avalanche, Superpower, Ice Punch,",233,263,114,3511,3552,Unova,ice,,snow,,snow 
+555,Darmanitan (Galarian Form - Zen Mode) , ice  fire ," Tackle, Ice Fang, Overheat, Avalanche, Superpower, Ice Punch,",233,323,123,4415,4467,Unova,ice,fire,snow,sunny/clear,snow sunny/clear
+556,Maractus, grass ," Bullet Seed, Poison Jab, Aerial Ace, Petal Blizzard, Solar Beam,",181,201,130,2571,2601,Unova,grass,,sunny/clear,,sunny/clear 
+557,Dwebble, bug  rock ," Cut, Smack Down, Rock Blast, X-Scissor, Rock Tomb,",137,118,128,1384,1401,Unova,bug,rock,rain,partly cloudy,rain partly cloudy
+558,Crustle, bug  rock ," Fury Cutter, Smack Down, Rock Blast, X-Scissor, Rock Slide,",172,188,200,2874,2908,Unova,bug,rock,rain,partly cloudy,rain partly cloudy
+559,Scraggy, dark  fighting ," Rock Smash, Feint Attack, Acid Spray, Brick Break, Foul Play,",137,132,132,1551,1570,Unova,dark,fighting,fog,cloudy,fog cloudy
+560,Scrafty, dark  fighting ," Counter, Snarl, Acid Spray, Power-Up Punch, Foul Play,",163,163,222,2581,2612,Unova,dark,fighting,fog,cloudy,fog cloudy
+561,Sigilyph, psychic  flying ," Air Slash, Zen Headbutt, Air Cutter, Psybeam, Ancient Power, Signal Beam,",176,204,167,2883,2917,Unova,psychic,flying,windy,windy,windy windy
+562,Yamask, ghost ," Astonish, Zen Headbutt, Shadow Ball, Dark Pulse, Ominous Wind,",116,95,141,1110,1123,Unova,ghost,,fog,,fog 
+562,Yamask (Galarian Form) , ground  ghost ," Astonish, Night Shade, Rock Tomb,",116,95,141,1110,1123,Unova,ground,ghost,sunny/clear,fog,sunny/clear fog
+563,Cofagrigus, ghost ," Astonish, Zen Headbutt, Shadow Claw, Shadow Ball, Dark Pulse, Psychic,",151,163,237,2570,2601,Unova,ghost,,fog,,fog 
+564,Tirtouga, water  rock ," Water Gun, Bite, Surf, Ancient Power, Body Slam,",144,134,146,1683,1703,Unova,water,rock,rain,partly cloudy,rain partly cloudy
+565,Carracosta, water  rock ," Water Gun, Rock Throw, Surf, Ancient Power, Body Slam,",179,192,197,2964,2999,Unova,water,rock,rain,partly cloudy,rain partly cloudy
+566,Archen, rock  flying ," Quick Attack, Wing Attack, Dragon Claw, Ancient Power, Crunch,",146,213,89,2083,2108,Unova,rock,flying,partly cloudy,windy,partly cloudy windy
+567,Archeops, rock  flying ," Steel Wing, Wing Attack, Dragon Claw, Ancient Power, Crunch,",181,292,139,3766,3811,Unova,rock,flying,partly cloudy,windy,partly cloudy windy
+568,Trubbish, poison ," Pound, Acid, Gunk Shot, Seed Bomb, Gunk Shot,",137,96,122,1131,1144,Unova,poison,,cloudy,,cloudy 
+569,Garbodor, poison ," Infestation, Acid, Acid Spray, Seed Bomb, Gunk Shot, Body Slam,",190,181,164,2651,2682,Unova,poison,,cloudy,,cloudy 
+570,Zorua, dark ," Scratch, Feint Attack, Foul Play, Aerial Ace, Dark Pulse,",120,153,78,1329,1345,Unova,dark,,fog,,fog 
+570,Zorua (Hisuian Form) , normal  ghost ,,111,162,79,1360,1376,Unova,normal,ghost,partly cloudy,fog,partly cloudy fog
+571,Zoroark, dark ," Shadow Claw, Snarl, Foul Play, Sludge Bomb, Flamethrower,",155,250,127,2907,2941,Unova,dark,,fog,,fog 
+571,Zoroark (Normal Form), dark ," Scratch, Feint Attack, Foul Play, Aerial Ace, Dark Pulse,",120,153,78,1329,1345,Unova,dark,,fog,,fog 
+571,Zoroark (Hisuian Form) , normal  ghost ,,146,261,128,2957,2992,Unova,normal,ghost,partly cloudy,fog,partly cloudy fog
+572,Minccino, normal ," Pound, Charm, Swift, Thunderbolt, Aqua Tail,",146,98,80,986,998,Unova,normal,,partly cloudy,,partly cloudy 
+573,Cinccino, normal ," Pound, Charm, Hyper Beam, Thunderbolt, Aqua Tail,",181,198,130,2535,2565,Unova,normal,,partly cloudy,,partly cloudy 
+574,Gothita, psychic ," Pound, Confusion, Psybeam, Psyshock, Psychic,",128,98,112,1075,1088,Unova,psychic,,windy,,windy 
+575,Gothorita, psychic ," Pound, Confusion, Psybeam, Future Sight, Psychic,",155,137,153,1813,1835,Unova,psychic,,windy,,windy 
+576,Gothitelle, psychic ," Charm, Confusion, Rock Slide, Future Sight, Psychic,",172,176,205,2735,2768,Unova,psychic,,windy,,windy 
+577,Solosis, psychic ," Hidden Power, Zen Headbutt, Psyshock, Night Shade, Thunder,",128,170,83,1546,1564,Unova,psychic,,windy,,windy 
+578,Duosion, psychic ," Hidden Power, Zen Headbutt, Psyshock, Night Shade, Thunder,",163,208,103,2282,2309,Unova,psychic,,windy,,windy 
+579,Reuniclus, psychic ," Hidden Power, Zen Headbutt, Future Sight, Shadow Ball, Thunder,",242,214,148,3309,3348,Unova,psychic,,windy,,windy 
+580,Ducklett, water  flying ," Water Gun, Wing Attack, Aerial Ace, Bubble Beam, Brave Bird,",158,84,96,968,980,Unova,water,flying,rain,windy,rain windy
+581,Swanna, water  flying ," Water Gun, Air Slash, Ice Beam, Bubble Beam, Hurricane,",181,182,132,2361,2389,Unova,water,flying,rain,windy,rain windy
+582,Vanillite, ice ," Powder Snow, Astonish, Icy Wind, Ice Beam, Signal Beam,",113,118,106,1168,1182,Unova,ice,,snow,,snow 
+583,Vanillish, ice ," Frost Breath, Astonish, Icy Wind, Ice Beam, Signal Beam,",139,151,138,1799,1820,Unova,ice,,snow,,snow 
+584,Vanilluxe, ice ," Frost Breath, Astonish, Blizzard, Flash Cannon, Signal Beam,",174,218,184,3190,3228,Unova,ice,,snow,,snow 
+585,Deerling, normal  grass ," Tackle, Take Down, Energy Ball, Seed Bomb, Wild Charge,",155,115,100,1283,1298,Unova,normal,grass,partly cloudy,sunny/clear,partly cloudy sunny/clear
+586,Sawsbuck, normal  grass ," Feint Attack, Take Down, Megahorn, Solar Beam, Wild Charge, Hyper Beam,",190,198,146,2732,2765,Unova,normal,grass,partly cloudy,sunny/clear,partly cloudy sunny/clear
+587,Emolga, electric  flying ," Thunder Shock, Quick Attack, Discharge, Aerial Ace, Thunderbolt,",146,158,127,1847,1869,Unova,electric,flying,rain,windy,rain windy
+588,Karrablast, bug ," Peck, Fury Cutter, Signal Beam, X-Scissor, Drill Run, Aerial Ace,",137,137,87,1336,1352,Unova,bug,,rain,,rain 
+589,Escavalier, bug  steel ," Counter, Bug Bite, Megahorn, Acid Spray, Drill Run, Aerial Ace,",172,223,187,3266,3305,Unova,bug,steel,rain,snow,rain snow
+590,Foongus, grass  poison ," Astonish, Feint Attack, Energy Ball, Body Slam, Grass Knot,",170,97,91,1107,1120,Unova,grass,poison,sunny/clear,cloudy,sunny/clear cloudy
+591,Amoonguss, grass  poison ," Astonish, Feint Attack, Foul Play, Sludge Bomb, Grass Knot,",249,155,139,2420,2449,Unova,grass,poison,sunny/clear,cloudy,sunny/clear cloudy
+592,Frillish, water  ghost ," Bubble, Hex, Night Shade, Ice Beam, Ominous Wind,",146,115,134,1421,1438,Unova,water,ghost,rain,fog,rain fog
+593,Jellicent, water  ghost ," Bubble, Hex, Shadow Ball, Ice Beam, Bubble Beam,",225,159,178,2644,2675,Unova,water,ghost,rain,fog,rain fog
+594,Alomomola, water ," Waterfall, Hidden Power, Hydro Pump, Blizzard, Psychic,",338,138,131,2452,2481,Unova,water,,rain,,rain 
+595,Joltik, bug  electric ," Charge Beam, Sucker Punch, Cross Poison, Bug Buzz, Discharge,",137,110,98,1156,1170,Unova,bug,electric,rain,rain,rain rain
+596,Galvantula, bug  electric ," Volt Switch, Fury Cutter, Cross Poison, Bug Buzz, Discharge, Energy Ball, Lunge,",172,201,128,2494,2523,Unova,bug,electric,rain,rain,rain rain
+597,Ferroseed, grass  steel ," Tackle, Metal Claw, Gyro Ball, Flash Cannon, Iron Head,",127,82,155,1064,1076,Unova,grass,steel,sunny/clear,snow,sunny/clear snow
+598,Ferrothorn, grass  steel ," Bullet Seed, Metal Claw, Power Whip, Flash Cannon, Acid Spray, Thunder, Mirror Shot,",179,158,223,2624,2656,Unova,grass,steel,sunny/clear,snow,sunny/clear snow
+599,Klink, steel ," Volt Switch, Charge Beam, Vice Grip, Discharge, Zap Cannon,",120,98,121,1081,1094,Unova,steel,,snow,,snow 
+600,Klang, steel ," Thunder Shock, Charge Beam, Vice Grip, Thunderbolt, Zap Cannon,",155,150,174,2088,2113,Unova,steel,,snow,,snow 
+601,Klinklang, steel ," Thunder Shock, Charge Beam, Hyper Beam, Flash Cannon, Zap Cannon, Mirror Shot,",155,199,214,2981,3016,Unova,steel,,snow,,snow 
+602,Tynamo, electric ," Tackle, Spark, Struggle,",111,105,78,917,928,Unova,electric,,rain,,rain 
+603,Eelektrik, electric ," Acid, Spark, Crunch, Thunderbolt, Discharge,",163,156,130,1939,1963,Unova,electric,,rain,,rain 
+604,Eelektross, electric ," Acid, Spark, Crunch, Thunderbolt, Acid Spray, Dragon Claw,",198,217,152,3089,3126,Unova,electric,,rain,,rain 
+605,Elgyem, psychic ," Confusion, Astonish, Psybeam, Dark Pulse, Psychic,",146,148,100,1566,1584,Unova,psychic,,windy,,windy 
+606,Beheeyem, psychic ," Confusion, Astonish, Rock Slide, Dark Pulse, Psychic,",181,221,163,3112,3149,Unova,psychic,,windy,,windy 
+607,Litwick, ghost  fire ," Astonish, Ember, Flame Charge, Flame Burst, Heat Wave,",137,108,98,1138,1151,Unova,ghost,fire,fog,sunny/clear,fog sunny/clear
+608,Lampent, ghost  fire ," Astonish, Ember, Energy Ball, Flame Burst, Heat Wave,",155,169,115,1931,1954,Unova,ghost,fire,fog,sunny/clear,fog sunny/clear
+609,Chandelure, ghost  fire ," Hex, Fire Spin, Incinerate, Energy Ball, Shadow Ball, Overheat, Flame Charge,",155,271,182,3695,3739,Unova,ghost,fire,fog,sunny/clear,fog sunny/clear
+610,Axew, dragon ," Scratch, Iron Tail, Dragon Claw, Aqua Tail, Dragon Pulse,",130,154,101,1547,1566,Unova,dragon,,windy,,windy 
+611,Fraxure, dragon ," Dragon Tail, Iron Tail, Dragon Claw, Aqua Tail, Night Slash,",165,212,123,2526,2556,Unova,dragon,,windy,,windy 
+612,Haxorus, dragon ," Dragon Tail, Counter, Dragon Claw, Surf, Night Slash, Earthquake,",183,284,172,4062,4110,Unova,dragon,,windy,,windy 
+613,Cubchoo, ice ," Powder Snow, Charm, Ice Punch, Icy Wind, Play Rough,",146,128,74,1208,1223,Unova,ice,,snow,,snow 
+614,Beartic, ice ," Powder Snow, Charm, Ice Punch, Surf, Play Rough,",216,233,152,3439,3480,Unova,ice,,snow,,snow 
+615,Cryogonal, ice ," Ice Shard, Frost Breath, Aurora Beam, Night Slash, Solar Beam, Water Pulse,",190,190,218,3163,3201,Unova,ice,,snow,,snow 
+616,Shelmet, bug ," Acid, Infestation, Bug Buzz, Body Slam, Signal Beam,",137,72,140,942,954,Unova,bug,,rain,,rain 
+617,Accelgor, bug ," Acid, Infestation, Bug Buzz, Acid Spray, Signal Beam, Focus Blast,",190,220,120,2760,2793,Unova,bug,,rain,,rain 
+618,Stunfisk, ground  electric ," Thunder Shock, Mud Shot, Mud Bomb, Discharge, Muddy Water,",240,144,171,2445,2474,Unova,ground,electric,sunny/clear,rain,sunny/clear rain
+618,Stunfisk, ground  steel ," Mud Shot, Metal Claw, Earthquake, Flash Cannon, Muddy Water, Rock Slide,",240,144,171,2445,2474,Unova,ground,steel,sunny/clear,snow,sunny/clear snow
+619,Mienfoo, fighting ," Low Kick, Pound, Brick Break, Low Sweep, Focus Blast,",128,160,98,1570,1589,Unova,fighting,,cloudy,,cloudy 
+620,Mienshao, fighting ," Low Kick, Poison Jab, Brick Break, Grass Knot, Stone Edge,",163,258,127,3064,3101,Unova,fighting,,cloudy,,cloudy 
+621,Druddigon, dragon ," Dragon Tail, Bite, Dragon Claw, Night Slash, Hyper Beam,",184,213,170,3088,3125,Unova,dragon,,windy,,windy 
+622,Golett, ground  ghost ," Astonish, Mud Slap, Shadow Punch, Brick Break, Night Shade,",153,127,92,1344,1360,Unova,ground,ghost,sunny/clear,fog,sunny/clear fog
+623,Golurk, ground  ghost ," Astonish, Mud Slap, Shadow Punch, Dynamic Punch, Earth Power,",205,222,154,3226,3265,Unova,ground,ghost,sunny/clear,fog,sunny/clear fog
+624,Pawniard, dark  steel ," Scratch, Fury Cutter, Night Slash, Iron Head, X-Scissor,",128,154,114,1620,1640,Unova,dark,steel,fog,snow,fog snow
+625,Bisharp, dark  steel ," Snarl, Metal Claw, Dark Pulse, Iron Head, X-Scissor, Focus Blast,",163,232,176,3215,3254,Unova,dark,steel,fog,snow,fog snow
+626,Bouffalant, normal ," Zen Headbutt, Mud Shot, Megahorn, Stomp, Skull Bash, Earthquake,",216,195,182,3163,3201,Unova,normal,,partly cloudy,,partly cloudy 
+627,Rufflet, normal  flying ," Peck, Wing Attack, Aerial Ace, Brave Bird, Rock Tomb,",172,150,97,1686,1706,Unova,normal,flying,partly cloudy,windy,partly cloudy windy
+628,Braviary, normal  flying ," Steel Wing, Air Slash, Heat Wave, Brave Bird, Rock Slide, Close Combat,",225,232,152,3491,3533,Unova,normal,flying,partly cloudy,windy,partly cloudy windy
+628,Braviary, psychic  flying ,,242,213,137,3181,3219,Unova,psychic,flying,windy,windy,windy windy
+629,Vullaby, dark  flying ," Feint Attack, Air Slash, Dark Pulse, Brave Bird, Foul Play,",172,105,139,1437,1455,Unova,dark,flying,fog,windy,fog windy
+630,Mandibuzz, dark  flying ," Snarl, Air Slash, Dark Pulse, Aerial Ace, Foul Play, Shadow Ball,",242,129,205,2417,2446,Unova,dark,flying,fog,windy,fog windy
+631,Heatmor, fire ," Lick, Fire Spin, Flamethrower, Thunder Punch, Power-Up Punch,",198,204,129,2708,2740,Unova,fire,,sunny/clear,,sunny/clear 
+632,Durant, bug  steel ," Bug Bite, Metal Claw, X-Scissor, Iron Head, Stone Edge,",151,217,188,3007,3043,Unova,bug,steel,rain,snow,rain snow
+633,Deino, dark  dragon ," Tackle, Dragon Breath, Dragon Pulse, Crunch, Body Slam,",141,116,93,1200,1214,Unova,dark,dragon,fog,windy,fog windy
+634,Zweilous, dark  dragon ," Bite, Dragon Breath, Dragon Pulse, Dark Pulse, Body Slam,",176,159,135,2079,2104,Unova,dark,dragon,fog,windy,fog windy
+635,Hydreigon, dark  dragon ," Bite, Dragon Breath, Dragon Pulse, Dark Pulse, Flash Cannon,",211,256,188,4098,4147,Unova,dark,dragon,fog,windy,fog windy
+636,Larvesta, bug  fire ," Ember, Bug Bite, Flame Charge, Bug Buzz, Flame Wheel,",146,156,107,1692,1712,Unova,bug,fire,rain,sunny/clear,rain sunny/clear
+637,Volcarona, bug  fire ," Fire Spin, Bug Bite, Overheat, Bug Buzz, Solar Beam, Hurricane,",198,264,189,4106,4155,Unova,bug,fire,rain,sunny/clear,rain sunny/clear
+638,Cobalion, steel  fighting ," Metal Claw, Zen Headbutt, Close Combat, Iron Head, Stone Edge,",209,192,229,3417,3457,Unova,steel,fighting,snow,cloudy,snow cloudy
+639,Terrakion, rock  fighting ," Smack Down, Zen Headbutt, Close Combat, Earthquake, Rock Slide,",209,260,192,4181,4231,Unova,rock,fighting,partly cloudy,cloudy,partly cloudy cloudy
+640,Virizion, grass  fighting ," Quick Attack, Zen Headbutt, Close Combat, Leaf Blade, Stone Edge,",209,192,229,3417,3457,Unova,grass,fighting,sunny/clear,cloudy,sunny/clear cloudy
+641,Tornadus, flying ," Bite, Air Slash, Grass Knot, Dark Pulse, Hyper Beam, Hurricane,",188,266,164,3782,3827,Unova,flying,,windy,,windy 
+641,Tornadus (Therian Forme) , flying ," Astonish, Gust, Heat Wave, Psychic, Focus Blast, Hurricane,",188,238,189,3635,3678,Unova,flying,,windy,,windy 
+642,Thundurus, electric  flying ," Astonish, Thunder Shock, Crunch, Thunder, Brick Break, Thunder Punch,",188,266,164,3782,3827,Unova,electric,flying,rain,windy,rain windy
+642,Thundurus (Therian Forme) , electric  flying ," Bite, Volt Switch, Sludge Wave, Thunder, Focus Blast, Thunderbolt,",188,295,161,4137,4186,Unova,electric,flying,rain,windy,rain windy
+643,Reshiram, dragon  fire ," Dragon Breath, Fire Fang, Crunch, Overheat, Draco Meteor, Stone Edge,",205,275,211,4565,4620,Unova,dragon,fire,windy,sunny/clear,windy sunny/clear
+644,Zekrom, dragon  electric ," Dragon Breath, Charge Beam, Outrage, Wild Charge, Flash Cannon, Crunch,",205,275,211,4565,4620,Unova,dragon,electric,windy,rain,windy rain
+645,Landorus, ground  flying ," Mud Shot, Rock Throw, Earth Power, Outrage, Rock Slide, Focus Blast,",205,261,182,4057,4105,Unova,ground,flying,sunny/clear,windy,sunny/clear windy
+645,Landorus (Therian Forme) , ground  flying ," Mud Shot, Extrasensory, Earthquake, Bulldoze, Stone Edge, Superpower,",205,289,179,4434,4487,Unova,ground,flying,sunny/clear,windy,sunny/clear windy
+646,Kyurem, dragon  ice ," Dragon Breath, Steel Wing, Dragon Claw, Blizzard, Draco Meteor,",245,246,170,4041,4090,Unova,dragon,ice,windy,snow,windy snow
+646,Kyurem (Black Kyurem) , dragon  ice ," Dragon Tail, Shadow Claw, Iron Head, Blizzard, Stone Edge, Outrage,",245,310,183,5204,5267,Unova,dragon,ice,windy,snow,windy snow
+646,Kyurem (White Kyurem) , dragon  ice ," Dragon Breath, Steel Wing, Dragon Pulse, Blizzard, Ancient Power, Focus Blast,",245,310,183,5204,5267,Unova,dragon,ice,windy,snow,windy snow
+647,Keldeo, water  fighting ," Poison Jab, Low Kick, Aqua Jet, Close Combat, Hydro Pump, X-Scissor,",209,260,192,4181,4231,Unova,water,fighting,rain,cloudy,rain cloudy
+647,Keldeo (Resolute Form) , water  fighting ," Poison Jab, Low Kick, Aqua Jet, Close Combat, Hydro Pump, X-Scissor,",209,260,192,4181,4231,Unova,water,fighting,rain,cloudy,rain cloudy
+648,Meloetta, normal  psychic ," Quick Attack, Confusion, Psyshock, Thunderbolt, Dazzling Gleam, Hyper Beam,",225,250,225,4490,4544,Unova,normal,psychic,partly cloudy,windy,partly cloudy windy
+648,Meloetta (Pirouette Forme) , normal  fighting ," Quick Attack, Low Kick, Close Combat, Fire Punch, Ice Punch, Hyper Beam,",225,269,188,4426,4479,Unova,normal,fighting,partly cloudy,cloudy,partly cloudy cloudy
+649,Genesect, bug  steel ," Metal Claw, Fury Cutter, X-Scissor, Magnet Bomb, Hyper Beam,",174,252,199,3791,3836,Unova,bug,steel,rain,snow,rain snow
+649,Genesect (Shock Drive) ,  ,,,,,0,0,Unova,,,,, 
+649,Genesect (Burn Drive) ,  ,,,,,0,0,Unova,,,,, 
+649,Genesect  (Chill Drive) ,  ,,,,,0,0,Unova,,,,, 
+649,Genesect (Douse Drive) ,  ,,,,,0,0,Unova,,,,, 

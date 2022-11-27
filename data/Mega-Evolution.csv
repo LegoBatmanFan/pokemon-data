@@ -1,0 +1,49 @@
+num,name,poke_type,attacks,hp,attack,defense,max_cp,max_buddy_cp,region,type1,type2,boost1,boost2,boost
+003,Mega Venusaur, grass  poison ,,190,241,246,4181,4231,Mega-Evolution,grass,poison,sunny/clear,cloudy,sunny/clear cloudy
+006,Mega Charizard X, fire  dragon ,,186,273,213,4353,4405,Mega-Evolution,fire,dragon,sunny/clear,windy,sunny/clear windy
+006,Mega Charizard Y, fire  flying ,,186,319,212,5037,5097,Mega-Evolution,fire,flying,sunny/clear,windy,sunny/clear windy
+009,Mega Blastoise, water ,,188,264,237,4455,4509,Mega-Evolution,water,,rain,,rain 
+015,Mega Beedrill, bug  poison ,,163,303,148,3824,3870,Mega-Evolution,bug,poison,rain,cloudy,rain cloudy
+018,Mega Pidgeot, normal  flying ,,195,280,175,4160,4210,Mega-Evolution,normal,flying,partly cloudy,windy,partly cloudy windy
+065,Mega Alakazam, psychic ,,146,367,207,5099,5160,Mega-Evolution,psychic,,windy,,windy 
+080,Mega Slowbro, water  psychic ,,216,224,259,4245,4296,Mega-Evolution,water,psychic,rain,windy,rain windy
+094,Mega Gengar, ghost  poison ,,155,349,199,4902,4960,Mega-Evolution,ghost,poison,fog,cloudy,fog cloudy
+115,Mega Kangaskhan, normal ,,233,246,210,4353,4405,Mega-Evolution,normal,,partly cloudy,,partly cloudy 
+127,Mega Pinsir, bug  flying ,,163,305,231,4728,4784,Mega-Evolution,bug,flying,rain,windy,rain windy
+130,Mega Gyarados, water  dark ,,216,292,247,5332,5396,Mega-Evolution,water,dark,rain,fog,rain fog
+142,Mega Aerodactyl, rock  flying ,,190,292,210,4655,4711,Mega-Evolution,rock,flying,partly cloudy,windy,partly cloudy windy
+150,Mega Mewtwo X, psychic  fighting ,,235,412,222,7338,7426,Mega-Evolution,psychic,fighting,windy,cloudy,windy cloudy
+150,Mega Mewtwo Y, psychic ,,235,426,229,7690,7782,Mega-Evolution,psychic,,windy,,windy 
+181,Mega Ampharos, electric  dragon ,,207,294,203,4800,4857,Mega-Evolution,electric,dragon,rain,windy,rain windy
+208,Mega Steelix, steel  ground ,,181,212,327,4149,4199,Mega-Evolution,steel,ground,snow,sunny/clear,snow sunny/clear
+212,Mega Scizor, bug  steel ,,172,279,250,4621,4676,Mega-Evolution,bug,steel,rain,snow,rain snow
+214,Mega Heracross, bug  fighting ,,190,334,223,5443,5508,Mega-Evolution,bug,fighting,rain,cloudy,rain cloudy
+229,Mega Houndoom, dark  fire ,,181,289,194,4344,4396,Mega-Evolution,dark,fire,fog,sunny/clear,fog sunny/clear
+248,Mega Tyranitar, rock  dark ,,225,309,276,6046,6118,Mega-Evolution,rock,dark,partly cloudy,fog,partly cloudy fog
+254,Mega Sceptile, grass  dragon ,,172,320,186,4585,4640,Mega-Evolution,grass,dragon,sunny/clear,windy,sunny/clear windy
+257,Mega Blaziken, fire  fighting ,,190,329,168,4704,4760,Mega-Evolution,fire,fighting,sunny/clear,cloudy,sunny/clear cloudy
+260,Mega Swampert, water  ground ,,225,283,218,4975,5035,Mega-Evolution,water,ground,rain,sunny/clear,rain sunny/clear
+282,Mega Gardevoir, psychic  fairy ,,169,326,229,5101,5162,Mega-Evolution,psychic,fairy,windy,cloudy,windy cloudy
+302,Mega Sableye, dark  ghost ,,137,151,216,2196,2222,Mega-Evolution,dark,ghost,fog,fog,fog fog
+303,Mega Mawile, steel  fairy ,,137,188,217,2691,2723,Mega-Evolution,steel,fairy,snow,cloudy,snow cloudy
+306,Mega Aggron, steel ,,172,247,331,4705,4761,Mega-Evolution,steel,,snow,,snow 
+308,Mega Medicham, fighting  psychic ,,155,205,179,2820,2854,Mega-Evolution,fighting,psychic,cloudy,windy,cloudy windy
+310,Mega Manectric, electric ,,172,286,179,4048,4096,Mega-Evolution,electric,,rain,,rain 
+319,Mega Sharpedo, water  dark ,,172,289,144,3701,3745,Mega-Evolution,water,dark,rain,fog,rain fog
+323,Mega Camerupt, fire  ground ,,172,253,183,3641,3684,Mega-Evolution,fire,ground,sunny/clear,sunny/clear,sunny/clear sunny/clear
+334,Mega Altaria, dragon  fairy ,,181,222,218,3576,3618,Mega-Evolution,dragon,fairy,windy,cloudy,windy cloudy
+354,Mega Banette, ghost ,,162,312,160,4063,4112,Mega-Evolution,ghost,,fog,,fog 
+359,Mega Absol, dark ,,163,314,130,3732,3776,Mega-Evolution,dark,,fog,,fog 
+362,Mega Glalie, ice ,,190,252,168,3651,3695,Mega-Evolution,ice,,snow,,snow 
+373,Mega Salamence, dragon  flying ,,216,310,251,5688,5756,Mega-Evolution,dragon,flying,windy,windy,windy windy
+376,Mega Metagross, steel  psychic ,,190,300,289,5552,5619,Mega-Evolution,steel,psychic,snow,windy,snow windy
+380,Mega Latias, dragon  psychic ,,190,289,297,5428,5493,Mega-Evolution,dragon,psychic,windy,windy,windy windy
+381,Mega Latios, dragon  psychic ,,190,335,241,5661,5729,Mega-Evolution,dragon,psychic,windy,windy,windy windy
+384,Mega Rayquaza, dragon  flying ,,233,389,216,6827,6909,Mega-Evolution,dragon,flying,windy,windy,windy windy
+428,Mega Lopunny, normal  fighting ,,163,282,214,4234,4284,Mega-Evolution,normal,fighting,partly cloudy,cloudy,partly cloudy cloudy
+445,Mega Garchomp, dragon  ground ,,239,339,222,6132,6205,Mega-Evolution,dragon,ground,windy,sunny/clear,windy sunny/clear
+448,Mega Lucario, fighting  steel ,,172,310,175,4325,4377,Mega-Evolution,fighting,steel,cloudy,snow,cloudy snow
+460,Mega Abomasnow, grass  ice ,,207,240,191,3850,3896,Mega-Evolution,grass,ice,sunny/clear,snow,sunny/clear snow
+475,Mega Gallade, psychic  fighting ,,169,326,230,5112,5173,Mega-Evolution,psychic,fighting,windy,cloudy,windy cloudy
+531,Mega Audino, normal  fairy ,,230,147,239,2853,2887,Mega-Evolution,normal,fairy,partly cloudy,cloudy,partly cloudy cloudy
+719,Mega Diancie, rock  fairy ,,137,342,235,4913,4972,Mega-Evolution,rock,fairy,partly cloudy,cloudy,partly cloudy cloudy

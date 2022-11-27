@@ -1,0 +1,208 @@
+﻿num,name,poke_type,attacks,hp,attack,defense,max_cp,max_buddy_cp,region,type1,type2,boost1,boost2,boost
+1,Bulbasaur, grass  poison ," Tackle, Vine Whip, Sludge Bomb, Seed Bomb, Power Whip,",128,118,111,1260,1275,Kanto,grass,poison,sunny/clear,cloudy,sunny/clear cloudy
+2,Ivysaur, grass  poison ," Razor Leaf, Vine Whip, Sludge Bomb, Solar Beam, Power Whip,",155,151,143,1920,1943,Kanto,grass,poison,sunny/clear,cloudy,sunny/clear cloudy
+3,Venusaur, grass  poison ," Razor Leaf, Vine Whip, Sludge Bomb, Solar Beam, Petal Blizzard,",190,198,189,3075,3112,Kanto,grass,poison,sunny/clear,cloudy,sunny/clear cloudy
+3,Mega Venusaur, grass  poison ," Razor Leaf, Vine Whip, Sludge Bomb, Solar Beam, Petal Blizzard,",190,241,246,4181,4231,Kanto,grass,poison,sunny/clear,cloudy,sunny/clear cloudy
+4,Charmander, fire ," Ember, Scratch, Flame Burst, Flamethrower, Flame Charge,",118,116,93,1108,1121,Kanto,fire,,sunny/clear,,sunny/clear 
+5,Charmeleon, fire ," Ember, Fire Fang, Flame Burst, Flamethrower, Fire Punch,",151,158,126,1868,1891,Kanto,fire,,sunny/clear,,sunny/clear 
+6,Charizard, fire  flying ," Fire Spin, Air Slash, Fire Blast, Dragon Claw, Overheat,",186,223,173,3266,3305,Kanto,fire,flying,sunny/clear,windy,sunny/clear windy
+6,Mega Charizard X, fire  dragon ," Fire Spin, Air Slash, Fire Blast, Dragon Claw, Overheat,",186,273,213,4353,4405,Kanto,fire,dragon,sunny/clear,windy,sunny/clear windy
+6,Mega Charizard Y, fire  flying ," Fire Spin, Air Slash, Fire Blast, Dragon Claw, Overheat,",186,319,212,5037,5097,Kanto,fire,flying,sunny/clear,windy,sunny/clear windy
+7,Squirtle, water ," Tackle, Bubble, Aqua Jet, Aqua Tail, Water Pulse,",127,94,121,1069,1082,Kanto,water,,rain,,rain 
+8,Wartortle, water ," Bite, Water Gun, Aqua Jet, Hydro Pump, Ice Beam,",153,126,155,1682,1702,Kanto,water,,rain,,rain 
+9,Blastoise, water ," Bite, Water Gun, Ice Beam, Hydro Pump, Flash Cannon, Skull Bash,",188,171,207,2788,2821,Kanto,water,,rain,,rain 
+9,Mega Blastoise, water ," Bite, Water Gun, Ice Beam, Hydro Pump, Flash Cannon, Skull Bash,",188,264,237,4455,4509,Kanto,water,,rain,,rain 
+10,Caterpie, bug ," Tackle, Bug Bite, Struggle,",128,55,55,494,500,Kanto,bug,,rain,,rain 
+11,Metapod, bug ," Tackle, Bug Bite, Struggle,",137,45,80,509,515,Kanto,bug,,rain,,rain 
+12,Butterfree, bug  flying ," Struggle Bug, Confusion, Psychic, Bug Buzz, Signal Beam,",155,167,137,2065,2090,Kanto,bug,flying,rain,windy,rain windy
+13,Weedle, bug  poison ," Bug Bite, Poison Sting, Struggle,",120,63,50,515,522,Kanto,bug,poison,rain,cloudy,rain cloudy
+14,Kakuna, bug  poison ," Bug Bite, Poison Sting, Struggle,",128,46,75,488,494,Kanto,bug,poison,rain,cloudy,rain cloudy
+15,Beedrill, bug  poison ," Infestation, Poison Jab, Aerial Ace, Sludge Bomb, X-Scissor, Fell Stinger,",163,169,130,2087,2112,Kanto,bug,poison,rain,cloudy,rain cloudy
+15,Mega Beedrill, bug  poison ," Infestation, Poison Jab, Aerial Ace, Sludge Bomb, X-Scissor, Fell Stinger,",163,303,148,3824,3870,Kanto,bug,poison,rain,cloudy,rain cloudy
+16,Pidgey, normal  flying ," Tackle, Quick Attack, Twister, Aerial Ace, Air Cutter,",120,85,73,769,778,Kanto,normal,flying,partly cloudy,windy,partly cloudy windy
+17,Pidgeotto, normal  flying ," Wing Attack, Steel Wing, Twister, Aerial Ace, Air Cutter,",160,117,105,1350,1366,Kanto,normal,flying,partly cloudy,windy,partly cloudy windy
+18,Pidgeot, normal  flying ," Air Slash, Steel Wing, Hurricane, Aerial Ace, Brave Bird, Feather Dance,",195,166,154,2407,2436,Kanto,normal,flying,partly cloudy,windy,partly cloudy windy
+18,Mega Pidgeot, normal  flying ," Air Slash, Steel Wing, Hurricane, Aerial Ace, Brave Bird, Feather Dance,",195,280,175,4160,4210,Kanto,normal,flying,partly cloudy,windy,partly cloudy windy
+19,Rattata, normal ," Tackle, Quick Attack, Dig, Hyper Fang, Body Slam,",102,103,70,830,840,Kanto,normal,,partly cloudy,,partly cloudy 
+19,Rattata (Alola Form) , dark  normal ," Tackle, Quick Attack, Crunch, Hyper Fang, Shadow Ball,",102,103,70,830,840,Kanto,dark,normal,fog,partly cloudy,fog partly cloudy
+20,Raticate, normal ," Bite, Quick Attack, Dig, Hyper Fang, Hyper Beam,",146,161,139,1956,1980,Kanto,normal,,partly cloudy,,partly cloudy 
+20,Raticate (Alola Form) , dark  normal ," Bite, Quick Attack, Crunch, Hyper Fang, Hyper Beam,",181,135,154,1927,1950,Kanto,dark,normal,fog,partly cloudy,fog partly cloudy
+21,Spearow, normal  flying ," Quick Attack, Peck, Aerial Ace, Drill Peck, Sky Attack,",120,112,60,902,913,Kanto,normal,flying,partly cloudy,windy,partly cloudy windy
+22,Fearow, normal  flying ," Steel Wing, Peck, Aerial Ace, Drill Run, Sky Attack,",163,182,133,2257,2284,Kanto,normal,flying,partly cloudy,windy,partly cloudy windy
+23,Ekans, poison ," Acid, Poison Sting, Wrap, Poison Fang, Sludge Bomb,",111,110,97,1048,1061,Kanto,poison,,cloudy,,cloudy 
+24,Arbok, poison ," Acid, Bite, Dragon Tail, Dark Pulse, Sludge Wave, Gunk Shot, Acid Spray,",155,167,153,2171,2197,Kanto,poison,,cloudy,,cloudy 
+25,Pikachu, electric ," Thunder Shock, Quick Attack, Discharge, Thunderbolt, Wild Charge,",111,112,96,1060,1073,Kanto,electric,,rain,,rain 
+25,Pikachu (Flying Pikachu) , electric ," Thunder Shock, Quick Attack, Discharge, Thunderbolt, Wild Charge, Fly,",111,112,96,1060,1073,Kanto,electric,,rain,,rain 
+25,Pikachu (Flying Pikachu) , electric ," Thunder Shock, Quick Attack, Discharge, Thunderbolt, Wild Charge, Fly,",111,112,96,1060,1073,Kanto,electric,,rain,,rain 
+25,Pikachu (Okinawa Balloon Pikachu) , electric ," Thunder Shock, Quick Attack, Discharge, Thunderbolt, Wild Charge, Fly,",111,112,96,1060,1073,Kanto,electric,,rain,,rain 
+25,Pikachu (Pikachu Libre) , electric ," Thunder Shock, Charm, Flying Press, Thunder Punch, Play Rough,",111,112,96,1060,1073,Kanto,electric,,rain,,rain 
+25,Pikachu (Pikachu Rock Star) , electric ," Thunder Shock, Charm, Meteor Mash, Thunder Punch, Play Rough,",111,112,96,1060,1073,Kanto,electric,,rain,,rain 
+25,Pikachu (Pikachu Pop Star) , electric ," Thunder Shock, Charm, Draining Kiss, Thunder Punch, Play Rough,",111,112,96,1060,1073,Kanto,electric,,rain,,rain 
+26,Raichu, electric ," Volt Switch, Spark, Charm, Thunder Shock, Brick Break, Thunder Punch, Wild Charge, Skull Bash,",155,193,151,2467,2496,Kanto,electric,,rain,,rain 
+26,Raichu (Alola Form) , electric  psychic ," Volt Switch, Spark, Thunder Shock, Psychic, Thunder Punch, Wild Charge, Grass Knot,",155,201,154,2585,2615,Kanto,electric,psychic,rain,windy,rain windy
+27,Sandshrew, ground ," Scratch, Mud Shot, Dig, Rock Slide, Sand Tomb,",137,126,120,1426,1443,Kanto,ground,,sunny/clear,,sunny/clear 
+27,Sandshrew (Alola Form) , ice  steel ," Metal Claw, Powder Snow, Blizzard, Gyro Ball, Night Slash,",137,125,129,1462,1479,Kanto,ice,steel,snow,snow,snow snow
+28,Sandslash, ground ," Metal Claw, Mud Shot, Rock Tomb, Bulldoze, Earthquake,",181,182,175,2684,2716,Kanto,ground,,sunny/clear,,sunny/clear 
+28,Sandslash (Alola Form) , ice  steel ," Metal Claw, Powder Snow, Blizzard, Gyro Ball, Bulldoze, Ice Punch,",181,177,195,2750,2783,Kanto,ice,steel,snow,snow,snow snow
+29,Nidoran (Female), poison ," Poison Sting, Bite, Poison Fang, Sludge Bomb, Body Slam,",146,86,89,922,933,Kanto,poison,,cloudy,,cloudy 
+30,Nidorina, poison ," Poison Sting, Bite, Poison Fang, Sludge Bomb, Dig,",172,117,120,1480,1498,Kanto,poison,,cloudy,,cloudy 
+31,Nidoqueen, poison  ground ," Poison Jab, Bite, Stone Edge, Sludge Wave, Earthquake, Earth Power, Poison Fang,",207,180,173,2812,2846,Kanto,poison,ground,cloudy,sunny/clear,cloudy sunny/clear
+32,Nidoran (Male), poison ," Poison Sting, Peck, Horn Attack, Body Slam, Sludge Bomb,",130,105,76,973,984,Kanto,poison,,cloudy,,cloudy 
+33,Nidorino, poison ," Poison Jab, Bite, Horn Attack, Dig, Sludge Bomb,",156,137,111,1575,1594,Kanto,poison,,cloudy,,cloudy 
+34,Nidoking, poison  ground ," Poison Jab, Iron Tail, Megahorn, Earthquake, Sludge Wave, Earth Power, Sand Tomb,",191,204,156,2902,2937,Kanto,poison,ground,cloudy,sunny/clear,cloudy sunny/clear
+35,Clefairy, fairy ," Pound, Zen Headbutt, Body Slam, Disarming Voice, Moonblast,",172,107,108,1306,1322,Kanto,fairy,,cloudy,,cloudy 
+36,Clefable, fairy ," Charge Beam, Zen Headbutt, Charm, Psychic, Dazzling Gleam, Moonblast, Meteor Mash,",216,178,162,2755,2788,Kanto,fairy,,cloudy,,cloudy 
+37,Vulpix, fire ," Quick Attack, Ember, Body Slam, Flamethrower, Flame Charge, Weather Ball Fire,",116,96,109,999,1010,Kanto,fire,,sunny/clear,,sunny/clear 
+37,Vulpix  (Alola Form) , ice ," Zen Headbutt, Powder Snow, Dark Pulse, Ice Beam, Blizzard, Weather Ball Ice,",116,96,109,999,1010,Kanto,ice,,snow,,snow 
+38,Ninetales, fire ," Feint Attack, Fire Spin, Heat Wave, Overheat, Solar Beam, Psyshock, Weather Ball Fire,",177,169,190,2577,2608,Kanto,fire,,sunny/clear,,sunny/clear 
+38,Ninetales  (Alola Form) , ice  fairy ," Feint Attack, Powder Snow, Charm, Dazzling Gleam, Ice Beam, Blizzard, Psyshock, Weather Ball Ice,",177,170,193,2610,2641,Kanto,ice,fairy,snow,cloudy,snow cloudy
+39,Jigglypuff, normal  fairy ," Feint Attack, Pound, Disarming Voice, Gyro Ball, Dazzling Gleam,",251,80,41,818,828,Kanto,normal,fairy,partly cloudy,cloudy,partly cloudy cloudy
+40,Wigglytuff, normal  fairy ," Feint Attack, Pound, Charm, Dazzling Gleam, Hyper Beam, Play Rough, Ice Beam,",295,156,90,2178,2204,Kanto,normal,fairy,partly cloudy,cloudy,partly cloudy cloudy
+41,Zubat, poison  flying ," Bite, Quick Attack, Poison Fang, Air Cutter, Swift,",120,83,73,754,763,Kanto,poison,flying,cloudy,windy,cloudy windy
+42,Golbat, poison  flying ," Bite, Wing Attack, Shadow Ball, Air Cutter, Poison Fang,",181,161,150,2234,2261,Kanto,poison,flying,cloudy,windy,cloudy windy
+43,Oddish, grass  poison ," Razor Leaf, Acid, Moonblast, Seed Bomb, Sludge Bomb,",128,131,112,1389,1405,Kanto,grass,poison,sunny/clear,cloudy,sunny/clear cloudy
+44,Gloom, grass  poison ," Razor Leaf, Acid, Moonblast, Petal Blizzard, Sludge Bomb,",155,153,136,1900,1923,Kanto,grass,poison,sunny/clear,cloudy,sunny/clear cloudy
+45,Vileplume, grass  poison ," Razor Leaf, Acid, Moonblast, Petal Blizzard, Solar Beam, Sludge Bomb,",181,202,167,2894,2928,Kanto,grass,poison,sunny/clear,cloudy,sunny/clear cloudy
+46,Paras, bug  grass ," Scratch, Bug Bite, Seed Bomb, X-Scissor, Cross Poison,",111,121,99,1150,1164,Kanto,bug,grass,rain,sunny/clear,rain sunny/clear
+47,Parasect, bug  grass ," Struggle Bug, Fury Cutter, Solar Beam, X-Scissor, Cross Poison,",155,165,146,2102,2127,Kanto,bug,grass,rain,sunny/clear,rain sunny/clear
+48,Venonat, bug  poison ," Bug Bite, Confusion, Poison Fang, Psybeam, Signal Beam,",155,100,100,1135,1148,Kanto,bug,poison,rain,cloudy,rain cloudy
+49,Venomoth, bug  poison ," Infestation, Confusion, Silver Wind, Psychic, Bug Buzz, Poison Fang,",172,179,143,2354,2382,Kanto,bug,poison,rain,cloudy,rain cloudy
+50,Diglett, ground ," Scratch, Mud Slap, Rock Tomb, Dig, Mud Bomb,",67,109,78,764,773,Kanto,ground,,sunny/clear,,sunny/clear 
+50,Diglett  (Alola Form) , ground  steel ," Mud Slap, Metal Claw, Dig, Mud Bomb, Rock Tomb,",67,108,81,770,779,Kanto,ground,steel,sunny/clear,snow,sunny/clear snow
+51,Dugtrio, ground ," Sucker Punch, Mud Slap, Stone Edge, Earthquake, Mud Bomb,",111,167,136,1772,1793,Kanto,ground,,sunny/clear,,sunny/clear 
+51,Dugtrio  (Alola Form) , ground  steel ," Metal Claw, Mud Slap, Earthquake, Mud Bomb, Iron Head,",111,201,142,2145,2170,Kanto,ground,steel,sunny/clear,snow,sunny/clear snow
+52,Meowth, normal ," Scratch, Bite, Night Slash, Dark Pulse, Foul Play,",120,92,78,846,856,Kanto,normal,,partly cloudy,,partly cloudy 
+52,Meowth  (Alola Form) , dark ," Scratch, Bite, Night Slash, Dark Pulse, Foul Play,",120,99,78,901,912,Kanto,dark,,fog,,fog 
+52,Meowth (Galarian Form) , steel ," Scratch, Metal Claw, Night Slash, Gyro Ball, Dig,",137,115,92,1170,1184,Kanto,steel,,snow,,snow 
+53,Persian, normal ," Scratch, Feint Attack, Foul Play, Power Gem, Play Rough, Payback,",163,150,136,1910,1932,Kanto,normal,,partly cloudy,,partly cloudy 
+53,Persian (Alola Form) , dark ," Scratch, Feint Attack, Foul Play, Dark Pulse, Play Rough, Payback,",163,158,136,2002,2026,Kanto,dark,,fog,,fog 
+54,Psyduck, water ," Zen Headbutt, Water Gun, Aqua Tail, Cross Chop, Psybeam,",137,122,95,1250,1265,Kanto,water,,rain,,rain 
+55,Golduck, water ," Confusion, Water Gun, Hydro Pump, Ice Beam, Psychic, Bubble Beam, Synchronoise, Cross Chop,",190,191,162,2770,2803,Kanto,water,,rain,,rain 
+56,Mankey, fighting ," Karate Chop, Scratch, Cross Chop, Low Sweep, Brick Break,",120,148,82,1317,1332,Kanto,fighting,,cloudy,,cloudy 
+57,Primeape, fighting ," Low Kick, Counter, Close Combat, Low Sweep, Night Slash, Ice Punch,",163,207,138,2586,2617,Kanto,fighting,,cloudy,,cloudy 
+58,Growlithe, fire ," Ember, Bite, Flame Wheel, Body Slam, Flamethrower,",146,136,93,1405,1422,Kanto,fire,,sunny/clear,,sunny/clear 
+58,Growlithe (Hisuian Form) , fire  rock ,,155,142,92,1495,1512,Kanto,fire,rock,sunny/clear,partly cloudy,sunny/clear partly cloudy
+59,Arcanine, fire ," Fire Fang, Snarl, Thunder Fang, Fire Blast, Wild Charge, Crunch, Flamethrower,",207,227,166,3425,3466,Kanto,fire,,sunny/clear,,sunny/clear 
+59,Arcanine (Hisuian Form) , fire  rock ,,216,232,165,3556,3598,Kanto,fire,rock,sunny/clear,partly cloudy,sunny/clear partly cloudy
+60,Poliwag, water ," Bubble, Mud Shot, Bubble Beam, Mud Bomb, Body Slam,",120,101,82,937,948,Kanto,water,,rain,,rain 
+61,Poliwhirl, water ," Bubble, Mud Shot, Water Pulse, Mud Bomb, Bubble Beam,",163,130,123,1604,1623,Kanto,water,,rain,,rain 
+62,Poliwrath, water  fighting ," Bubble, Rock Smash, Mud Shot, Hydro Pump, Dynamic Punch, Ice Punch, Power-Up Punch, Scald,",207,182,184,2923,2958,Kanto,water,fighting,rain,cloudy,rain cloudy
+63,Abra, psychic ," Zen Headbutt, Charge Beam, Shadow Ball, Signal Beam, Psyshock,",93,195,82,1517,1535,Kanto,psychic,,windy,,windy 
+64,Kadabra, psychic ," Confusion, Psycho Cut, Shadow Ball, Dazzling Gleam, Psybeam,",120,232,117,2328,2355,Kanto,psychic,,windy,,windy 
+65,Alakazam, psychic ," Confusion, Psycho Cut, Future Sight, Focus Blast, Shadow Ball, Fire Punch,",146,271,167,3457,3498,Kanto,psychic,,windy,,windy 
+65,Mega Alakazam, psychic ," Confusion, Psycho Cut, Future Sight, Focus Blast, Shadow Ball, Fire Punch,",146,367,207,5099,5160,Kanto,psychic,,windy,,windy 
+66,Machop, fighting ," Rock Smash, Karate Chop, Low Sweep, Brick Break, Cross Chop,",172,137,82,1445,1462,Kanto,fighting,,cloudy,,cloudy 
+67,Machoke, fighting ," Low Kick, Karate Chop, Submission, Brick Break, Dynamic Punch,",190,177,125,2296,2324,Kanto,fighting,,cloudy,,cloudy 
+68,Machamp, fighting ," Bullet Punch, Counter, Heavy Slam, Dynamic Punch, Close Combat, Rock Slide, Cross Chop,",207,234,159,3455,3496,Kanto,fighting,,cloudy,,cloudy 
+69,Bellsprout, grass  poison ," Vine Whip, Acid, Sludge Bomb, Power Whip, Wrap,",137,139,61,1168,1182,Kanto,grass,poison,sunny/clear,cloudy,sunny/clear cloudy
+70,Weepinbell, grass  poison ," Bullet Seed, Acid, Sludge Bomb, Power Whip, Seed Bomb,",163,172,92,1822,1844,Kanto,grass,poison,sunny/clear,cloudy,sunny/clear cloudy
+71,Victreebel, grass  poison ," Razor Leaf, Acid, Sludge Bomb, Leaf Blade, Solar Beam, Acid Spray, Leaf Tornado,",190,207,135,2748,2781,Kanto,grass,poison,sunny/clear,cloudy,sunny/clear cloudy
+72,Tentacool, water  poison ," Bubble, Poison Sting, Bubble Beam, Water Pulse, Wrap,",120,97,149,1176,1190,Kanto,water,poison,rain,cloudy,rain cloudy
+73,Tentacruel, water  poison ," Acid, Poison Jab, Blizzard, Hydro Pump, Sludge Wave, Acid Spray,",190,166,209,2738,2771,Kanto,water,poison,rain,cloudy,rain cloudy
+74,Geodude, rock  ground ," Rock Throw, Tackle, Rock Slide, Rock Tomb, Dig,",120,132,132,1462,1479,Kanto,rock,ground,partly cloudy,sunny/clear,partly cloudy sunny/clear
+74,Geodude (Alola Form) , rock  electric ," Rock Throw, Volt Switch, Rock Slide, Rock Tomb, Thunderbolt,",120,132,132,1462,1479,Kanto,rock,electric,partly cloudy,rain,partly cloudy rain
+75,Graveler, rock  ground ," Rock Throw, Mud Slap, Dig, Stone Edge, Rock Blast,",146,164,164,2145,2171,Kanto,rock,ground,partly cloudy,sunny/clear,partly cloudy sunny/clear
+75,Graveler (Alola Form) , rock  electric ," Rock Throw, Volt Switch, Thunderbolt, Stone Edge, Rock Blast,",146,164,164,2145,2171,Kanto,rock,electric,partly cloudy,rain,partly cloudy rain
+76,Golem, rock  ground ," Rock Throw, Mud Slap, Stone Edge, Rock Blast, Earthquake, Ancient Power,",190,211,198,3334,3374,Kanto,rock,ground,partly cloudy,sunny/clear,partly cloudy sunny/clear
+76,Golem (Alola Form) , rock  electric ," Rock Throw, Volt Switch, Stone Edge, Rock Blast, Wild Charge,",190,211,198,3334,3374,Kanto,rock,electric,partly cloudy,rain,partly cloudy rain
+77,Ponyta, fire ," Tackle, Ember, Flame Charge, Flame Wheel, Stomp,",137,170,127,1919,1942,Kanto,fire,,sunny/clear,,sunny/clear 
+77,Ponyta (Galarian Form) , psychic ," Low Kick, Psycho Cut, Play Rough, Psybeam, Swift,",137,170,127,1919,1942,Kanto,psychic,,windy,,windy 
+77,Ponyta (Galarian Form GO Fest 2021), psychic ," Low Kick, Psycho Cut, Play Rough, Psybeam, Swift,",137,170,127,1919,1942,Kanto,psychic,,windy,,windy 
+78,Rapidash, fire ," Low Kick, Fire Spin, Incinerate, Fire Blast, Drill Run, Heat Wave, Flame Charge,",163,207,162,2782,2815,Kanto,fire,,sunny/clear,,sunny/clear 
+78,Rapidash (Galarian Form) , psychic  fairy ," Low Kick, Psycho Cut, Play Rough, Psychic, Body Slam, Megahorn,",163,207,162,2782,2815,Kanto,psychic,fairy,windy,cloudy,windy cloudy
+79,Slowpoke, water  psychic ," Water Gun, Confusion, Psychic, Water Pulse, Psyshock,",207,109,98,1386,1403,Kanto,water,psychic,rain,windy,rain windy
+79,Slowpoke (Galarian Form) , psychic ," Confusion, Iron Tail, Surf, Psyshock, Psychic,",207,109,98,1386,1403,Kanto,psychic,,windy,,windy 
+80,Slowbro, water  psychic ," Water Gun, Confusion, Psychic, Water Pulse, Ice Beam,",216,177,180,2877,2911,Kanto,water,psychic,rain,windy,rain windy
+80,Slowbro (Galarian Form) , poison  psychic ," Confusion, Poison Jab, Focus Blast, Psychic, Sludge Bomb,",216,182,156,2764,2797,Kanto,poison,psychic,cloudy,windy,cloudy windy
+80,Mega Slowbro, water  psychic ," Water Gun, Confusion, Psychic, Water Pulse, Ice Beam,",216,224,259,4245,4296,Kanto,water,psychic,rain,windy,rain windy
+81,Magnemite, electric  steel ," Spark, Thunder Shock, Discharge, Magnet Bomb, Thunderbolt,",93,165,121,1540,1558,Kanto,electric,steel,rain,snow,rain snow
+82,Magneton, electric  steel ," Spark, Charge Beam, Thunder Shock, Zap Cannon, Magnet Bomb, Flash Cannon, Discharge,",137,223,169,2810,2844,Kanto,electric,steel,rain,snow,rain snow
+83,Farfetch'd (Avaliable in Asia only), normal  flying ," Air Slash, Fury Cutter, Air Cutter, Aerial Ace, Leaf Blade,",141,124,115,1397,1414,Kanto,normal,flying,partly cloudy,windy,partly cloudy windy
+83,Farfetch'd (Galarian Form) , fighting ," Rock Smash, Fury Cutter, Brick Break, Brave Bird, Leaf Blade,",141,174,114,1893,1915,Kanto,fighting,,cloudy,,cloudy 
+84,Doduo, normal  flying ," Peck, Quick Attack, Drill Peck, Aerial Ace, Brave Bird,",111,158,83,1357,1373,Kanto,normal,flying,partly cloudy,windy,partly cloudy windy
+85,Dodrio, normal  flying ," Steel Wing, Feint Attack, Drill Peck, Aerial Ace, Brave Bird,",155,218,140,2670,2702,Kanto,normal,flying,partly cloudy,windy,partly cloudy windy
+86,Seel, water ," Ice Shard, Lick, Aurora Beam, Icy Wind, Aqua Tail,",163,85,121,1098,1111,Kanto,water,,rain,,rain 
+87,Dewgong, water  ice ," Frost Breath, Iron Tail, Aurora Beam, Water Pulse, Blizzard,",207,139,177,2244,2271,Kanto,water,ice,rain,snow,rain snow
+88,Grimer, poison ," Poison Jab, Mud Slap, Sludge, Sludge Bomb, Mud Bomb,",190,135,90,1553,1572,Kanto,poison,,cloudy,,cloudy 
+88,Grimer (Alola Form) , poison  dark ," Poison Jab, Bite, Crunch, Gunk Shot, Sludge Bomb,",190,135,90,1553,1572,Kanto,poison,dark,cloudy,fog,cloudy fog
+89,Muk, poison ," Infestation, Poison Jab, Sludge Wave, Gunk Shot, Dark Pulse, Thunder Punch, Acid Spray,",233,190,172,3117,3154,Kanto,poison,,cloudy,,cloudy 
+89,Muk (Alola Form) , poison  dark ," Bite, Poison Jab, Snarl, Dark Pulse, Gunk Shot, Sludge Wave, Acid Spray,",233,190,172,3117,3154,Kanto,poison,dark,cloudy,fog,cloudy fog
+90,Shellder, water ," Ice Shard, Tackle, Icy Wind, Water Pulse, Bubble Beam,",102,116,134,1221,1235,Kanto,water,,rain,,rain 
+91,Cloyster, water  ice ," Ice Shard, Frost Breath, Aurora Beam, Hydro Pump, Avalanche, Icy Wind,",137,186,256,2880,2914,Kanto,water,ice,rain,snow,rain snow
+92,Gastly, ghost  poison ," Lick, Astonish, Night Shade, Dark Pulse, Sludge Bomb,",102,186,67,1390,1406,Kanto,ghost,poison,fog,cloudy,fog cloudy
+93,Haunter, ghost  poison ," Shadow Claw, Astonish, Shadow Punch, Dark Pulse, Sludge Bomb, Shadow Ball,",128,223,107,2219,2246,Kanto,ghost,poison,fog,cloudy,fog cloudy
+94,Gengar, ghost  poison ," Sucker Punch, Hex, Shadow Claw, Shadow Ball, Focus Blast, Sludge Bomb,",155,261,149,3253,3292,Kanto,ghost,poison,fog,cloudy,fog cloudy
+94,Mega Gengar, ghost  poison ," Sucker Punch, Hex, Shadow Claw, Shadow Ball, Focus Blast, Sludge Bomb,",155,349,199,4902,4960,Kanto,ghost,poison,fog,cloudy,fog cloudy
+95,Onix, rock  ground ," Rock Throw, Tackle, Sand Tomb, Stone Edge, Heavy Slam,",111,85,232,1245,1260,Kanto,rock,ground,partly cloudy,sunny/clear,partly cloudy sunny/clear
+96,Drowzee, psychic ," Pound, Confusion, Psybeam, Psyshock, Psychic,",155,89,136,1176,1190,Kanto,psychic,,windy,,windy 
+97,Hypno, psychic ," Zen Headbutt, Confusion, Future Sight, Psychic, Focus Blast, Fire Punch, Ice Punch, Thunder Punch, Shadow Ball,",198,144,193,2363,2391,Kanto,psychic,,windy,,windy 
+98,Krabby, water ," Bubble, Mud Shot, Vice Grip, Water Pulse, Bubble Beam,",102,181,124,1765,1786,Kanto,water,,rain,,rain 
+99,Kingler, water ," Bubble, Metal Claw, Vice Grip, Water Pulse, X-Scissor, Crabhammer,",146,240,181,3198,3236,Kanto,water,,rain,,rain 
+100,Voltorb, electric ," Spark, Tackle, Discharge, Thunderbolt, Gyro Ball,",120,109,111,1141,1155,Kanto,electric,,rain,,rain 
+100,Voltorb (Hisuian Form) , electric  grass ," Charge Beam, Tackle, Swift, Thunderbolt, Energy Ball,",120,109,111,1141,1155,Kanto,electric,grass,rain,sunny/clear,rain sunny/clear
+101,Electrode, electric ," Spark, Volt Switch, Discharge, Thunderbolt, Hyper Beam, Foul Play,",155,173,173,2373,2401,Kanto,electric,,rain,,rain 
+101,Electrode (Hisuian Form) , electric  grass ," Thunder Shock, Tackle, Swift, Wild Charge, Energy Ball,",155,176,176,2430,2459,Kanto,electric,grass,rain,sunny/clear,rain sunny/clear
+102,Exeggcute, grass  psychic ," Confusion, Bullet Seed, Psychic, Seed Bomb, Ancient Power,",155,107,125,1328,1344,Kanto,grass,psychic,sunny/clear,windy,sunny/clear windy
+103,Exeggutor, grass  psychic ," Bullet Seed, Extrasensory, Confusion, Psychic, Seed Bomb, Solar Beam,",216,233,149,3408,3449,Kanto,grass,psychic,sunny/clear,windy,sunny/clear windy
+103,Exeggutor (Alola Form) , grass  dragon ," Bullet Seed, Dragon Tail, Seed Bomb, Dragon Pulse, Solar Beam,",216,230,153,3407,3448,Kanto,grass,dragon,sunny/clear,windy,sunny/clear windy
+104,Cubone, ground ," Rock Smash, Mud Slap, Bone Club, Dig, Bulldoze,",137,90,144,1152,1166,Kanto,ground,,sunny/clear,,sunny/clear 
+105,Marowak, ground ," Rock Smash, Mud Slap, Bone Club, Dig, Earthquake,",155,144,186,2075,2099,Kanto,ground,,sunny/clear,,sunny/clear 
+105,Marowak (Alola Form) , fire  ghost ," Hex, Rock Smash, Fire Spin, Bone Club, Shadow Ball, Fire Blast, Flame Wheel,",155,144,186,2075,2099,Kanto,fire,ghost,sunny/clear,fog,sunny/clear fog
+106,Hitmonlee, fighting ," Low Kick, Rock Smash, Close Combat, Low Sweep, Stone Edge,",137,224,181,2912,2947,Kanto,fighting,,cloudy,,cloudy 
+107,Hitmonchan, fighting ," Bullet Punch, Counter, Fire Punch, Ice Punch, Thunder Punch, Close Combat, Power-Up Punch,",137,193,197,2636,2667,Kanto,fighting,,cloudy,,cloudy 
+108,Lickitung, normal ," Lick, Zen Headbutt, Hyper Beam, Stomp, Power Whip,",207,108,137,1595,1614,Kanto,normal,,partly cloudy,,partly cloudy 
+109,Koffing, poison ," Tackle, Infestation, Dark Pulse, Sludge, Sludge Bomb,",120,119,141,1373,1389,Kanto,poison,,cloudy,,cloudy 
+110,Weezing, poison ," Tackle, Infestation, Dark Pulse, Shadow Ball, Sludge Bomb, Thunderbolt,",163,174,197,2592,2623,Kanto,poison,,cloudy,,cloudy 
+110,Weezing (Galarian Form) , poison  fairy ," Tackle, Sludge, Hyper Beam, Play Rough, Overheat,",163,174,197,2592,2623,Kanto,poison,fairy,cloudy,cloudy,cloudy cloudy
+111,Rhyhorn, ground  rock ," Rock Smash, Mud Slap, Bulldoze, Stomp, Horn Attack,",190,140,127,1867,1889,Kanto,ground,rock,sunny/clear,partly cloudy,sunny/clear partly cloudy
+112,Rhydon, ground  rock ," Rock Smash, Mud Slap, Earthquake, Stone Edge, Surf,",233,222,171,3594,3637,Kanto,ground,rock,sunny/clear,partly cloudy,sunny/clear partly cloudy
+113,Chansey, normal ," Pound, Zen Headbutt, Dazzling Gleam, Hyper Beam, Psychic,",487,60,128,1418,1435,Kanto,normal,,partly cloudy,,partly cloudy 
+114,Tangela, grass ," Vine Whip, Infestation, Grass Knot, Sludge Bomb, Solar Beam,",163,183,169,2530,2560,Kanto,grass,,sunny/clear,,sunny/clear 
+115,Kangaskhan (Only available in Australia), normal ," Low Kick, Mud Slap, Crunch, Earthquake, Outrage, Power-Up Punch,",233,181,165,2923,2958,Kanto,normal,,partly cloudy,,partly cloudy 
+115,Mega Kangaskhan, normal ," Low Kick, Mud Slap, Crunch, Earthquake, Outrage, Power-Up Punch,",233,246,210,4353,4405,Kanto,normal,,partly cloudy,,partly cloudy 
+116,Horsea, water ," Water Gun, Bubble, Bubble Beam, Dragon Pulse, Flash Cannon,",102,129,103,1194,1209,Kanto,water,,rain,,rain 
+117,Seadra, water ," Water Gun, Dragon Breath, Aurora Beam, Dragon Pulse, Hydro Pump,",146,187,156,2366,2395,Kanto,water,,rain,,rain 
+118,Goldeen, water ," Mud Shot, Peck, Aqua Tail, Horn Attack, Water Pulse,",128,123,110,1302,1318,Kanto,water,,rain,,rain 
+119,Seaking, water ," Waterfall, Peck, Ice Beam, Water Pulse, Megahorn,",190,175,147,2444,2474,Kanto,water,,rain,,rain 
+120,Staryu, water ," Water Gun, Tackle, Bubble Beam, Power Gem, Swift,",102,137,112,1308,1323,Kanto,water,,rain,,rain 
+121,Starmie, water  psychic ," Hidden Power, Water Gun, Hydro Pump, Power Gem, Psychic, Thunder, Ice Beam,",155,210,184,2922,2956,Kanto,water,psychic,rain,windy,rain windy
+122,Mr. Mime (Only available in Europe), psychic  fairy ," Confusion, Zen Headbutt, Shadow Ball, Psybeam, Psychic,",120,192,205,2518,2548,Kanto,psychic,fairy,windy,cloudy,windy cloudy
+122,Mr. Mime (Galarian Form) , ice  psychic ," Confusion, Zen Headbutt, Psybeam, Psychic, Ice Punch,",137,183,169,2338,2366,Kanto,ice,psychic,snow,windy,snow windy
+123,Scyther, bug  flying ," Fury Cutter, Air Slash, Night Slash, X-Scissor, Aerial Ace,",172,218,170,3060,3096,Kanto,bug,flying,rain,windy,rain windy
+124,Jynx, ice  psychic ," Frost Breath, Confusion, Draining Kiss, Avalanche, Psyshock, Focus Blast,",163,223,151,2888,2923,Kanto,ice,psychic,snow,windy,snow windy
+125,Electabuzz, electric ," Low Kick, Thunder Shock, Thunderbolt, Thunder, Thunder Punch,",163,198,158,2639,2670,Kanto,electric,,rain,,rain 
+126,Magmar, fire ," Karate Chop, Ember, Fire Blast, Flamethrower, Fire Punch,",163,206,154,2706,2738,Kanto,fire,,sunny/clear,,sunny/clear 
+127,Pinsir, bug ," Rock Smash, Bug Bite, Fury Cutter, Vice Grip, X-Scissor, Close Combat, Superpower,",163,238,182,3345,3385,Kanto,bug,,rain,,rain 
+127,Mega Pinsir, bug  flying ," Rock Smash, Bug Bite, Fury Cutter, Vice Grip, X-Scissor, Close Combat, Superpower,",163,305,231,4728,4784,Kanto,bug,flying,rain,windy,rain windy
+128,Tauros, normal ," Tackle, Zen Headbutt, Earthquake, Iron Head, Horn Attack,",181,198,183,2962,2998,Kanto,normal,,partly cloudy,,partly cloudy 
+129,Magikarp, water ," Splash, Struggle,",85,29,85,310,314,Kanto,water,,rain,,rain 
+130,Gyarados, water  flying ," Bite, Waterfall, Dragon Breath, Hydro Pump, Crunch, Outrage, Twister,",216,237,186,3834,3879,Kanto,water,flying,rain,windy,rain windy
+130,Mega Gyarados, water  dark ," Bite, Waterfall, Dragon Breath, Hydro Pump, Crunch, Outrage, Twister,",216,292,247,5332,5396,Kanto,water,dark,rain,fog,rain fog
+131,Lapras, water  ice ," Frost Breath, Water Gun, Hydro Pump, Surf, Blizzard, Skull Bash,",277,165,174,2985,3021,Kanto,water,ice,rain,snow,rain snow
+132,Ditto, normal ," Transform, Struggle,",134,91,91,940,951,Kanto,normal,,partly cloudy,,partly cloudy 
+133,Eevee, normal ," Tackle, Quick Attack, Dig, Swift,",146,104,114,1211,1225,Kanto,normal,,partly cloudy,,partly cloudy 
+134,Vaporeon, water ," Water Gun, Water Pulse, Hydro Pump, Aqua Tail,",277,205,161,3521,3563,Kanto,water,,rain,,rain 
+135,Jolteon, electric ," Thunder Shock, Volt Switch, Thunderbolt, Discharge, Thunder,",163,232,182,3266,3305,Kanto,electric,,rain,,rain 
+136,Flareon, fire ," Ember, Fire Spin, Fire Blast, Flamethrower, Overheat,",163,246,179,3424,3465,Kanto,fire,,sunny/clear,,sunny/clear 
+137,Porygon, normal ," Charge Beam, Hidden Power, Lock On, Solar Beam, Hyper Beam, Zap Cannon,",163,153,136,1944,1968,Kanto,normal,,partly cloudy,,partly cloudy 
+138,Omanyte, rock  water ," Water Gun, Mud Shot, Ancient Power, Bubble Beam, Rock Blast,",111,155,153,1746,1767,Kanto,rock,water,partly cloudy,rain,partly cloudy rain
+139,Omastar, rock  water ," Water Gun, Mud Shot, Ancient Power, Hydro Pump, Rock Blast,",172,207,201,3150,3188,Kanto,rock,water,partly cloudy,rain,partly cloudy rain
+140,Kabuto, rock  water ," Scratch, Mud Shot, Aqua Jet, Rock Tomb, Ancient Power,",102,148,140,1550,1568,Kanto,rock,water,partly cloudy,rain,partly cloudy rain
+141,Kabutops, rock  water ," Rock Smash, Mud Shot, Waterfall, Water Pulse, Stone Edge, Ancient Power,",155,220,186,3067,3103,Kanto,rock,water,partly cloudy,rain,partly cloudy rain
+142,Aerodactyl, rock  flying ," Bite, Steel Wing, Rock Throw, Iron Head, Hyper Beam, Ancient Power, Rock Slide, Earth Power,",190,221,159,3147,3184,Kanto,rock,flying,partly cloudy,windy,partly cloudy windy
+142,Mega Aerodactyl, rock  flying ," Bite, Steel Wing, Rock Throw, Iron Head, Hyper Beam, Ancient Power, Rock Slide, Earth Power,",190,292,210,4655,4711,Kanto,rock,flying,partly cloudy,windy,partly cloudy windy
+143,Snorlax, normal ," Lick, Zen Headbutt, Heavy Slam, Hyper Beam, Earthquake, Outrage, Body Slam, Superpower,",330,190,169,3647,3690,Kanto,normal,,partly cloudy,,partly cloudy 
+144,Articuno, ice  flying ," Frost Breath, Ice Shard, Ice Beam, Icy Wind, Blizzard, Ancient Power,",207,192,236,3450,3491,Kanto,ice,flying,snow,windy,snow windy
+144,Articuno (Galarian Form) , psychic  flying ,,207,250,197,4059,4107,Kanto,psychic,flying,windy,windy,windy windy
+145,Zapdos, electric  flying ," Charge Beam, Zap Cannon, Thunderbolt, Thunder, Ancient Power, Drill Peck,",207,253,185,3987,4035,Kanto,electric,flying,rain,windy,rain windy
+145,Zapdos (Galarian Form) , fighting  flying ,,207,252,189,4012,4060,Kanto,fighting,flying,cloudy,windy,cloudy windy
+146,Moltres, fire  flying ," Fire Spin, Wing Attack, Fire Blast, Heat Wave, Overheat, Ancient Power,",207,251,181,3918,3964,Kanto,fire,flying,sunny/clear,windy,sunny/clear windy
+146,Moltres (Galarian Form) , dark  flying ,,207,202,231,3580,3623,Kanto,dark,flying,fog,windy,fog windy
+147,Dratini, dragon ," Dragon Breath, Iron Tail, Wrap, Twister, Aqua Tail,",121,119,91,1136,1149,Kanto,dragon,,windy,,windy 
+148,Dragonair, dragon ," Dragon Breath, Iron Tail, Wrap, Aqua Tail, Dragon Pulse,",156,163,135,2012,2036,Kanto,dragon,,windy,,windy 
+149,Dragonite, dragon  flying ," Dragon Tail, Steel Wing, Dragon Breath, Hurricane, Hyper Beam, Outrage, Dragon Claw,",209,263,198,4287,4339,Kanto,dragon,flying,windy,windy,windy windy
+150,Mewtwo, psychic ," Confusion, Psycho Cut, Psychic, Focus Blast, Flamethrower, Thunderbolt, Ice Beam,",214,300,182,4724,4780,Kanto,psychic,,windy,,windy 
+150,Mewtwo (Armored Mewtwo) , psychic ," Confusion, Iron Tail, Rock Slide, Dynamic Punch, Earthquake, Future Sight,",214,182,278,3603,3646,Kanto,psychic,,windy,,windy 
+150,Mega Mewtwo X, psychic  fighting ," Confusion, Psycho Cut, Psychic, Focus Blast, Flamethrower, Thunderbolt, Ice Beam,",235,412,222,7338,7426,Kanto,psychic,fighting,windy,cloudy,windy cloudy
+150,Mega Mewtwo Y, psychic ," Confusion, Psycho Cut, Psychic, Focus Blast, Flamethrower, Thunderbolt, Ice Beam,",235,426,229,7690,7782,Kanto,psychic,,windy,,windy 
+151,Mew, psychic ," Charge Beam, Cut, Dragon Tail, Frost Breath, Infestation, Poison Jab, Rock Smash, Shadow Claw, Snarl, Steel Wing, Struggle Bug, Volt Switch, Waterfall, Ancient Power, Bulldoze, Dark Pulse, Dazzling Gleam, Dragon Claw, Earthquake, Energy Ball, Fire Blast, Flame Charge, Flash Cannon, Gyro Ball, Hyper Beam, Ice Beam, Low Sweep, Overheat, Psychic, Psyshock, Solar Beam, Stone Edge, Surf, Thunder, Thunderbolt, Wild Charge,",225,210,210,3691,3735,Kanto,psychic,,windy,,windy 

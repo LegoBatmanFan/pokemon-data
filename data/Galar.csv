@@ -1,0 +1,100 @@
+﻿num,name,poke_type,attacks,hp,attack,defense,max_cp,max_buddy_cp,region,type1,type2,boost1,boost2,boost
+810,Grookey, grass ," Scratch, Razor Leaf, Energy Ball, Grass Knot,",137,122,91,1227,1242,Galar,grass,,sunny/clear,,sunny/clear 
+811,Thwackey, grass ," Scratch, Razor Leaf, Energy Ball, Grass Knot,",172,165,134,2121,2146,Galar,grass,,sunny/clear,,sunny/clear 
+812,Rillaboom, grass ," Scratch, Razor Leaf, Energy Ball, Grass Knot, Earth Power,",225,239,168,3758,3803,Galar,grass,,sunny/clear,,sunny/clear 
+813,Scorbunny, fire ," Tackle, Ember, Flame Charge, Flamethrower,",137,132,79,1240,1255,Galar,fire,,sunny/clear,,sunny/clear 
+814,Raboot, fire ," Tackle, Ember, Flame Charge, Flamethrower,",163,170,125,2062,2086,Galar,fire,,sunny/clear,,sunny/clear 
+815,Cinderace, fire ," Tackle, Ember, Flame Charge, Flamethrower, Focus Blast,",190,238,163,3412,3453,Galar,fire,,sunny/clear,,sunny/clear 
+816,Sobble, water ," Pound, Water Gun, Water Pulse, Surf,",137,132,79,1240,1255,Galar,water,,rain,,rain 
+817,Drizzile, water ," Pound, Water Gun, Water Pulse, Surf,",163,186,113,2142,2167,Galar,water,,rain,,rain 
+818,Inteleon, water ," Pound, Water Gun, Water Pulse, Surf, Shadow Ball,",172,262,142,3351,3391,Galar,water,,rain,,rain 
+819,Skwovet, normal ," Tackle, Bite, Bullet Seed, Body Slam, Crunch,",172,95,86,1067,1080,Galar,normal,,partly cloudy,,partly cloudy 
+820,Greedent, normal ," Tackle, Bite, Bullet Seed, Body Slam, Crunch,",260,160,156,2679,2711,Galar,normal,,partly cloudy,,partly cloudy 
+821,Rookidee, flying ," Peck, Air Slash, Drill Peck, Brave Bird,",116,88,67,753,762,Galar,flying,,windy,,windy 
+822,Corvisquire, flying ," Peck, Air Slash, Drill Peck, Brave Bird,",169,129,110,1542,1560,Galar,flying,,windy,,windy 
+823,Corviknight, flying  steel ," Steel Wing, Air Slash, Drill Peck, Brave Bird, Iron Head,",221,163,192,2777,2810,Galar,flying,steel,windy,snow,windy snow
+824,Blipbug, bug ," Struggle Bug, Struggle,",93,46,67,405,410,Galar,bug,,rain,,rain 
+825,Dottler, bug  psychic ," Struggle Bug, Confusion, Bug Buzz, Psychic,",137,87,157,1164,1178,Galar,bug,psychic,rain,windy,rain windy
+826,Orbeetle, bug  psychic ," Struggle Bug, Confusion, Bug Buzz, Psychic,",155,156,240,2513,2543,Galar,bug,psychic,rain,windy,rain windy
+827,Nickit, dark ," Quick Attack, Snarl, Night Slash, Play Rough,",120,85,82,808,817,Galar,dark,,fog,,fog 
+828,Thievul, dark ," Quick Attack, Snarl, Night Slash, Play Rough,",172,172,164,2415,2444,Galar,dark,,fog,,fog 
+829,Gossifleur, grass ," Razor Leaf, Bullet Seed, Energy Ball, Grass Knot,",120,70,104,760,769,Galar,grass,,sunny/clear,,sunny/clear 
+830,Eldegoss, grass ," Razor Leaf, Bullet Seed, Energy Ball, Grass Knot,",155,148,211,2255,2282,Galar,grass,,sunny/clear,,sunny/clear 
+831,Wooloo, normal ," Tackle, Take Down, Wild Charge, Payback, Stomp,",123,76,97,798,808,Galar,normal,,partly cloudy,,partly cloudy 
+832,Dubwool, normal ," Tackle, Take Down, Wild Charge, Payback, Body Slam,",176,159,198,2478,2507,Galar,normal,,partly cloudy,,partly cloudy 
+833,Chewtle, water ," Water Gun, Bite, Body Slam, Surf,",137,114,85,1123,1136,Galar,water,,rain,,rain 
+834,Drednaw, water  rock ," Waterfall, Bite, Body Slam, Surf, Rock Blast,",207,213,164,3209,3247,Galar,water,rock,rain,partly cloudy,rain partly cloudy
+835,Yamper, electric ," Spark, Bite, Crunch, Thunder,",153,80,90,890,901,Galar,electric,,rain,,rain 
+836,Boltund, electric ," Spark, Bite, Crunch, Thunder,",170,197,131,2460,2489,Galar,electric,,rain,,rain 
+837,Rolycoly, rock ," Smack Down, Tackle, Rock Blast, Rock Slide,",102,73,91,692,700,Galar,rock,,partly cloudy,,partly cloudy 
+838,Carkol, rock  fire ," Smack Down, Incinerate, Rock Blast, Rock Slide, Flame Charge,",190,114,157,1710,1730,Galar,rock,fire,partly cloudy,sunny/clear,partly cloudy sunny/clear
+839,Coalossal, rock  fire ," Smack Down, Incinerate, Rock Blast, Rock Slide, Flame Charge,",242,146,198,2659,2691,Galar,rock,fire,partly cloudy,sunny/clear,partly cloudy sunny/clear
+840,Applin, grass  dragon ," Astonish, Struggle,",120,71,116,807,817,Galar,grass,dragon,sunny/clear,windy,sunny/clear windy
+841,Flapple, grass  dragon ," Bullet Seed, Dragon Breath, Dragon Pulse, Fly, Outrage, Seed Bomb,",172,214,144,2788,2821,Galar,grass,dragon,sunny/clear,windy,sunny/clear windy
+842,Appletun, grass  dragon ," Bullet Seed, Astonish, Dragon Pulse, Energy Ball, Outrage, Seed Bomb,",242,178,146,2772,2805,Galar,grass,dragon,sunny/clear,windy,sunny/clear windy
+843,Silicobra, ground ," Mud Slap, Mud Shot, Dig, Bulldoze, Earth Power,",141,103,123,1222,1237,Galar,ground,,sunny/clear,,sunny/clear 
+844,Sandaconda, ground ," Mud Slap, Mud Shot, Dig, Bulldoze, Earth Power,",176,202,207,3155,3192,Galar,ground,,sunny/clear,,sunny/clear 
+845,Cramorant, flying  water ," Peck, Water Gun, Drill Peck, Fly, Hydro Pump,",172,173,163,2422,2450,Galar,flying,water,windy,rain,windy rain
+846,Arrokuda, water ," Waterfall, Bite, Peck, Crunch, Aqua Jet, Close Combat,",121,118,72,1021,1033,Galar,water,,rain,,rain 
+847,Barraskewda, water ," Waterfall, Bite, Peck, Crunch, Aqua Jet, Close Combat,",156,258,127,3003,3039,Galar,water,,rain,,rain 
+848,Toxel, electric  poison ," Acid, Power Up Punch,",120,97,65,821,831,Galar,electric,poison,rain,cloudy,rain cloudy
+849,Toxtricity, electric  poison ," Acid, Spark, Poison Jab, Acid Spray, Discharge, Wild Charge, Power Up Punch,",181,224,140,2941,2976,Galar,electric,poison,rain,cloudy,rain cloudy
+849,Toxtricity  (Low Key Form) , electric  poison ," Acid, Spark, Poison Jab, Acid Spray, Discharge, Wild Charge, Power Up Punch,",181,224,140,2941,2976,Galar,electric,poison,rain,cloudy,rain cloudy
+850,Sizzlipede, fire  bug ," Bug Bite, Ember, Heat Wave, Bug Buzz, Crunch,",137,118,90,1186,1200,Galar,fire,bug,sunny/clear,rain,sunny/clear rain
+851,Centiskorch, fire  bug ," Bug Bite, Ember, Heat Wave, Bug Buzz, Crunch, Lunge,",225,220,158,3381,3421,Galar,fire,bug,sunny/clear,rain,sunny/clear rain
+852,Clobbopus, fighting ," Rock Smash, Brick Break, Superpower, Ice Punch,",137,121,103,1286,1301,Galar,fighting,,cloudy,,cloudy 
+853,Grapploct, fighting ," Rock Smash, Waterfall, Brick Break, Superpower, Ice Punch, Surf,",190,209,162,3012,3048,Galar,fighting,,cloudy,,cloudy 
+854,Sinistea, ghost ," Astonish, Sucker Punch, Shadow Ball, Dark Pulse, Psychic,",120,134,96,1287,1303,Galar,ghost,,fog,,fog 
+855,Polteageist, ghost ," Astonish, Sucker Punch, Hex, Shadow Ball, Dark Pulse, Psychic,",155,248,189,3458,3499,Galar,ghost,,fog,,fog 
+856,Hatenna, psychic ," Confusion, Charm, Psybeam, Psychic, Dazzling Gleam,",123,98,93,974,985,Galar,psychic,,windy,,windy 
+857,Hattrem, psychic ," Confusion, Charm, Psybeam, Psychic, Dazzling Gleam,",149,153,133,1848,1870,Galar,psychic,,windy,,windy 
+858,Hatterene, psychic  fairy ," Confusion, Charm, Psycho Cut, Psybeam, Psychic, Dazzling Gleam, Power Whip,",149,237,182,3198,3236,Galar,psychic,fairy,windy,cloudy,windy cloudy
+859,Impidimp, dark  fairy ," Bite, Sucker Punch, Foul Play, Dark Pulse, Play Rough,",128,103,69,913,924,Galar,dark,fairy,fog,cloudy,fog cloudy
+860,Morgrem, dark  fairy ," Bite, Sucker Punch, Foul Play, Dark Pulse, Play Rough,",163,145,102,1630,1649,Galar,dark,fairy,fog,cloudy,fog cloudy
+861,Grimmsnarl, dark  fairy ," Bite, Sucker Punch, Low Kick, Foul Play, Dark Pulse, Play Rough, Power Up Punch,",216,227,139,3223,3261,Galar,dark,fairy,fog,cloudy,fog cloudy
+862,Obstagoon, dark  normal ," Counter, Lick, Cross Chop, Night Slash, Hyper Beam, Gunk Shot,",212,180,194,2999,3035,Galar,dark,normal,fog,partly cloudy,fog partly cloudy
+863,Perrserker, steel ," Metal Claw, Shadow Claw, Iron Head, Close Combat, Play Rough, Foul Play,",172,195,162,2697,2729,Galar,steel,,snow,,snow 
+864,Cursola, ghost ," Astonish, Hex, Rock Blast, Brine, Night Shade, Shadow Ball,",155,253,182,3463,3504,Galar,ghost,,fog,,fog 
+865,Sirfetch'd, fighting ," Counter, Fury Cutter, Close Combat, Brave Bird, Leaf Blade, Night Slash,",158,248,176,3375,3415,Galar,fighting,,cloudy,,cloudy 
+866,Mr. Rime, ice  psychic ," Confusion, Zen Headbutt, Ice Shard, Psybeam, Psychic, Ice Punch, Icy Wind,",190,212,179,3196,3234,Galar,ice,psychic,snow,windy,snow windy
+867,Runerigus, ground  ghost ," Astonish, Shadow Ball, Sand Tomb, Rock Tomb,",151,163,237,2570,2601,Galar,ground,ghost,sunny/clear,fog,sunny/clear fog
+868,Milcery, fairy ," Tackle, Charm, Dazzling Gleam,",128,90,97,938,949,Galar,fairy,,cloudy,,cloudy 
+869,Alcremie, fairy ," Tackle, Charm, Dazzling Gleam, Psyshock, Energy Ball,",163,203,203,3032,3068,Galar,fairy,,cloudy,,cloudy 
+870,Falinks, fighting ," Rock Smash, Counter, Superpower, Brick Break, Megahorn,",163,193,170,2665,2696,Galar,fighting,,cloudy,,cloudy 
+871,Pincurchin, electric ," Thunder Shock, Water Gun, Poison Jab, Discharge, Thunderbolt, Bubble Beam,",134,176,161,2183,2210,Galar,electric,,rain,,rain 
+872,Snom, ice  bug ," Powder Snow, Struggle Bug, Icy Wind, Bug Buzz,",102,76,59,597,605,Galar,ice,bug,snow,rain,snow rain
+873,Frosmoth, ice  bug ," Powder Snow, Bug Bite, Icy Wind, Bug Buzz, Ice Beam, Hurricane,",172,230,155,3084,3121,Galar,ice,bug,snow,rain,snow rain
+874,Stonjourner, rock ," Rock Throw, Stone Edge, Rock Slide, Stomp,",225,222,182,3638,3682,Galar,rock,,partly cloudy,,partly cloudy 
+875,Eiscue, ice ," Powder Snow, Icy Wind, Weather Ball Ice, Surf,",181,148,195,2334,2362,Galar,ice,,snow,,snow 
+875,Eiscue, ice ," Powder Snow, Icy Wind, Weather Ball Ice, Surf,",181,173,139,2306,2333,Galar,ice,,snow,,snow 
+876,Indeedee, psychic  normal ," Extrasensory, Psybeam, Psychic, Shadow Ball,",155,208,166,2762,2795,Galar,psychic,normal,windy,partly cloudy,windy partly cloudy
+876,Indeedee (Female) , psychic  normal ," Extrasensory, Psybeam, Psychic, Energy Ball,",172,184,184,2710,2743,Galar,psychic,normal,windy,partly cloudy,windy partly cloudy
+877,Morpeko, electric  dark ," Thunder Shock, Bite, Crunch, Payback, Thunderbolt, Wild Charge,",151,192,121,2196,2222,Galar,electric,dark,rain,fog,rain fog
+877,Morpeko (Hangry Mode) , electric  dark ," Thunder Shock, Bite, Crunch, Payback, Thunderbolt, Wild Charge,",151,192,121,0,0,Galar,electric,dark,rain,fog,rain fog
+878,Cufant, steel ," Tackle, Rock Smash, Iron Head, Dig, Play Rough,",176,140,91,1557,1575,Galar,steel,,snow,,snow 
+879,Copperajah, steel ," Tackle, Rock Smash, Iron Head, Dig, Play Rough, Heavy Slam,",263,226,126,3368,3409,Galar,steel,,snow,,snow 
+880,Dracozolt, electric  dragon ," Dragon Tail, Thunder Shock, Discharge, Dragon Pulse, Ancient Power,",207,195,165,2964,2999,Galar,electric,dragon,rain,windy,rain windy
+881,Arctozolt, electric  ice ," Powder Snow, Thunder Shock, Discharge, Avalanche, Ancient Power,",207,190,166,2901,2936,Galar,electric,ice,rain,snow,rain snow
+882,Dracovish, water  dragon ," Dragon Breath, Water Gun, Brine, Dragon Pulse, Ancient Power,",207,175,185,2826,2860,Galar,water,dragon,rain,windy,rain windy
+883,Arctovish, water  ice ," Powder Snow, Water Gun, Brine, Avalanche, Ancient Power,",207,171,185,2767,2800,Galar,water,ice,rain,snow,rain snow
+884,Duraludon, steel  dragon ," Dragon Tail, Metal Claw, Flash Cannon, Dragon Claw, Hyper Beam,",172,239,185,3468,3509,Galar,steel,dragon,snow,windy,snow windy
+885,Dreepy, dragon  ghost ," Astonish, Quick Attack, Struggle,",99,117,61,867,877,Galar,dragon,ghost,windy,fog,windy fog
+886,Drakloak, dragon  ghost ," Astonish, Dragon Tail, Dragon Pulse, Shadow Ball, Outrage,",169,163,105,1867,1889,Galar,dragon,ghost,windy,fog,windy fog
+887,Dragapult, dragon  ghost ," Hex, Dragon Tail, Dragon Pulse, Shadow Ball, Outrage,",204,266,170,3993,4041,Galar,dragon,ghost,windy,fog,windy fog
+888,Zacian, fairy ," Metal Claw, Snarl, Quick Attack, Fire Fang, Play Rough, Iron Head, Wild Charge, Close Combat,",192,254,236,4329,4381,Galar,fairy,,cloudy,,cloudy 
+888,Zacian (Crowned Sword) , fairy  steel ," Metal Claw, Snarl, Quick Attack, Fire Fang, Play Rough, Iron Head, Wild Charge, Close Combat,",192,332,240,5629,5696,Galar,fairy,steel,cloudy,snow,cloudy snow
+889,Zamazenta, fighting ," Metal Claw, Snarl, Quick Attack, Ice Fang, Moonblast, Iron Head, Crunch, Close Combat,",192,254,236,4329,4381,Galar,fighting,,cloudy,,cloudy 
+889,Zamazenta (Crowned Shield) , fighting  steel ," Metal Claw, Snarl, Quick Attack, Ice Fang, Moonblast, Iron Head, Crunch, Close Combat,",192,250,292,4716,4773,Galar,fighting,steel,cloudy,snow,cloudy snow
+890,Eternatus, poison  dragon ," Dragon Tail, Poison Jab, Cross Poison, Dragon Pulse, Flamethrower,",268,278,197,5007,5067,Galar,poison,dragon,cloudy,windy,cloudy windy
+890,Eternatus Eternamax, poison  dragon ," Dragon Tail, Poison Jab, Cross Poison, Dragon Pulse, Flamethrower, Hyper Beam,",452,251,505,9255,9366,Galar,poison,dragon,cloudy,windy,cloudy windy
+891,Kubfu, fighting ," Rock Smash, Counter, Brick Break, Dynamic Punch, Close Combat,",155,170,112,1919,1942,Galar,fighting,,cloudy,,cloudy 
+892,Urshifu, fighting  dark ," Rock Smash, Counter, Sucker Punch, Brick Break, Dynamic Punch, Close Combat, Payback,",225,254,177,4077,4125,Galar,fighting,dark,cloudy,fog,cloudy fog
+892,Urshifu (Rapid Strike Style), fighting  water ," Rock Smash, Counter, Waterfall, Brick Break, Dynamic Punch, Close Combat, Aqua Jet,",225,254,177,4077,4125,Galar,fighting,water,cloudy,rain,cloudy rain
+893,Zarude, dark  grass ," Vine Whip, Bite, Power Whip, Energy Ball, Dark Pulse,",233,242,215,4334,4385,Galar,dark,grass,fog,sunny/clear,fog sunny/clear
+894,Regieleki, electric ," Thunder Shock, Lock On, Hyper Beam, Thunder, Zap Cannon,",190,250,125,3169,3207,Galar,electric,,rain,,rain 
+895,Regidrago, dragon ," Bite, Hyper Beam, Outrage, Dragon Pulse,",400,202,101,3361,3401,Galar,dragon,,windy,,windy 
+896,Glastrier, ice ," Tackle, Take Down, Avalanche, Icy Wind, Bulldoze,",225,246,223,4404,4457,Galar,ice,,snow,,snow 
+897,Spectrier, ghost ," Tackle, Take Down, Shadow Ball, Foul Play, Bulldoze,",225,300,161,4571,4625,Galar,ghost,,fog,,fog 
+898,Calyrex, psychic  grass ," Pound, Confusion, Psyshock, Psychic, Energy Ball,",225,162,162,2575,2606,Galar,psychic,grass,windy,sunny/clear,windy sunny/clear
+898,Calyrex (Ice Rider) , psychic  ice ," Confusion, Take Down, Psyshock, Psychic, Energy Ball, Avalanche,",205,268,246,4788,4845,Galar,psychic,ice,windy,snow,windy snow
+898,Calyrex (Shadow Rider) , psychic  ghost ," Confusion, Take Down, Psyshock, Psychic, Energy Ball, Shadow Ball,",205,324,194,5132,5193,Galar,psychic,ghost,windy,fog,windy fog

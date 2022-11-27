@@ -1,0 +1,10 @@
+﻿num,name,poke_type,attacks,hp,attack,defense,max_cp,max_buddy_cp,region,type1,type2,boost1,boost2,boost
+899,Wyrdeer, normal  psychic ,,230,206,145,3089,3126,Hisui,normal,psychic,partly cloudy,windy,partly cloudy windy
+900,Kleavor, bug  rock ,,172,253,174,3557,3600,Hisui,bug,rock,rain,partly cloudy,rain partly cloudy
+901,Ursaluna, ground  normal ,,277,243,181,4358,4410,Hisui,ground,normal,sunny/clear,partly cloudy,sunny/clear partly cloudy
+902,Basculegion, water  ghost ,,260,217,144,3425,3466,Hisui,water,ghost,rain,fog,rain fog
+902,Basculegion, water  ghost ,,260,199,144,3159,3197,Hisui,water,ghost,rain,fog,rain fog
+903,Sneasler, fighting  poison ,,190,259,158,3643,3687,Hisui,fighting,poison,cloudy,cloudy,cloudy cloudy
+904,Overqwil, dark  poison ,,198,222,171,3330,3370,Hisui,dark,poison,fog,cloudy,fog cloudy
+905,Enamorus, fairy  flying ,,179,281,162,3872,3919,Hisui,fairy,flying,cloudy,windy,cloudy windy
+905,Enamorus, fairy  flying ,,179,250,201,3830,3876,Hisui,fairy,flying,cloudy,windy,cloudy windy

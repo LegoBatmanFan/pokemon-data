@@ -1,0 +1,112 @@
+﻿num,name,poke_type,attacks,hp,attack,defense,max_cp,max_buddy_cp,region,type1,type2,boost1,boost2,boost
+152,Chikorita, grass ," Vine Whip, Tackle, Energy Ball, Grass Knot, Body Slam,",128,92,122,1057,1070,Johto,grass,,sunny/clear,,sunny/clear 
+153,Bayleef, grass ," Razor Leaf, Tackle, Energy Ball, Grass Knot, Ancient Power,",155,122,155,1644,1664,Johto,grass,,sunny/clear,,sunny/clear 
+154,Meganium, grass ," Razor Leaf, Vine Whip, Petal Blizzard, Solar Beam, Earthquake,",190,168,202,2725,2757,Johto,grass,,sunny/clear,,sunny/clear 
+155,Cyndaquil, fire ," Ember, Tackle, Flame Charge, Swift, Flamethrower,",118,116,93,1108,1121,Johto,fire,,sunny/clear,,sunny/clear 
+156,Quilava, fire ," Ember, Tackle, Flame Charge, Dig, Flamethrower,",151,158,126,1868,1891,Johto,fire,,sunny/clear,,sunny/clear 
+157,Typhlosion, fire ," Ember, Shadow Claw, Incinerate, Fire Blast, Overheat, Solar Beam,",186,223,173,3266,3305,Johto,fire,,sunny/clear,,sunny/clear 
+157,Typhlosion, fire  ghost ,,177,238,172,3384,3425,Johto,fire,ghost,sunny/clear,fog,sunny/clear fog
+158,Totodile, water ," Water Gun, Scratch, Crunch, Aqua Jet, Water Pulse,",137,117,109,1279,1294,Johto,water,,rain,,rain 
+159,Croconaw, water ," Waterfall, Scratch, Crunch, Ice Punch, Water Pulse,",163,150,142,1947,1970,Johto,water,,rain,,rain 
+160,Feraligatr, water ," Waterfall, Bite, Ice Fang, Crunch, Hydro Pump, Ice Beam,",198,205,188,3230,3268,Johto,water,,rain,,rain 
+161,Sentret, normal ," Scratch, Quick Attack, Dig, Brick Break, Grass Knot,",111,79,73,698,707,Johto,normal,,partly cloudy,,partly cloudy 
+162,Furret, normal ," Quick Attack, Sucker Punch, Dig, Brick Break, Hyper Beam,",198,148,125,1987,2011,Johto,normal,,partly cloudy,,partly cloudy 
+163,Hoothoot, normal  flying ," Feint Attack, Peck, Aerial Ace, Sky Attack, Night Shade,",155,67,88,766,775,Johto,normal,flying,partly cloudy,windy,partly cloudy windy
+164,Noctowl, normal  flying ," Wing Attack, Extrasensory, Psychic, Sky Attack, Night Shade, Shadow Ball,",225,145,156,2288,2316,Johto,normal,flying,partly cloudy,windy,partly cloudy windy
+165,Ledyba, bug  flying ," Tackle, Bug Bite, Silver Wind, Swift, Aerial Ace,",120,72,118,823,833,Johto,bug,flying,rain,windy,rain windy
+166,Ledian, bug  flying ," Struggle Bug, Bug Bite, Bug Buzz, Silver Wind, Aerial Ace,",146,107,179,1522,1540,Johto,bug,flying,rain,windy,rain windy
+167,Spinarak, bug  poison ," Poison Sting, Bug Bite, Night Slash, Signal Beam, Cross Poison,",120,105,73,923,934,Johto,bug,poison,rain,cloudy,rain cloudy
+168,Ariados, bug  poison ," Poison Sting, Infestation, Shadow Sneak, Megahorn, Cross Poison, Lunge,",172,161,124,2003,2027,Johto,bug,poison,rain,cloudy,rain cloudy
+169,Crobat, poison  flying ," Air Slash, Bite, Shadow Ball, Air Cutter, Sludge Bomb, Poison Fang, Cross Poison,",198,194,178,2992,3027,Johto,poison,flying,cloudy,windy,cloudy windy
+170,Chinchou, water  electric ," Bubble, Spark, Water Pulse, Thunderbolt, Bubble Beam,",181,106,97,1265,1280,Johto,water,electric,rain,rain,rain rain
+171,Lanturn, water  electric ," Water Gun, Charge Beam, Spark, Hydro Pump, Thunderbolt, Thunder,",268,146,137,2357,2386,Johto,water,electric,rain,rain,rain rain
+172,Pichu, electric ," Thunder Shock, Thunderbolt, Disarming Voice, Thunder Punch,",85,77,53,535,542,Johto,electric,,rain,,rain 
+173,Cleffa, fairy ," Pound, Zen Headbutt, Grass Knot, Psyshock, Signal Beam,",137,75,79,759,768,Johto,fairy,,cloudy,,cloudy 
+174,Igglybuff, normal  fairy ," Pound, Feint Attack, Wild Charge, Shadow Ball, Psychic,",207,69,32,605,613,Johto,normal,fairy,partly cloudy,cloudy,partly cloudy cloudy
+175,Togepi, fairy ," Hidden Power, Peck, Ancient Power, Psyshock, Dazzling Gleam,",111,67,116,743,752,Johto,fairy,,cloudy,,cloudy 
+176,Togetic, fairy  flying ," Extrasensory, Hidden Power, Ancient Power, Dazzling Gleam, Aerial Ace,",146,139,181,1931,1954,Johto,fairy,flying,cloudy,windy,cloudy windy
+177,Natu, psychic  flying ," Peck, Quick Attack, Night Shade, Psyshock, Drill Peck,",120,134,89,1246,1261,Johto,psychic,flying,windy,windy,windy windy
+178,Xatu, psychic  flying ," Air Slash, Feint Attack, Ominous Wind, Future Sight, Aerial Ace,",163,192,146,2474,2504,Johto,psychic,flying,windy,windy,windy windy
+179,Mareep, electric ," Tackle, Thunder Shock, Body Slam, Thunderbolt, Discharge,",146,114,79,1120,1133,Johto,electric,,rain,,rain 
+180,Flaaffy, electric ," Tackle, Charge Beam, Power Gem, Thunderbolt, Discharge,",172,145,109,1720,1740,Johto,electric,,rain,,rain 
+181,Ampharos, electric ," Charge Beam, Volt Switch, Zap Cannon, Focus Blast, Thunder, Power Gem, Thunder Punch,",207,211,162,3163,3201,Johto,electric,,rain,,rain 
+181,Mega Ampharos, electric  dragon ," Charge Beam, Volt Switch, Zap Cannon, Focus Blast, Thunder, Power Gem, Thunder Punch,",207,294,203,4800,4857,Johto,electric,dragon,rain,windy,rain windy
+182,Bellossom, grass ," Razor Leaf, Acid, Bullet Seed, Leaf Blade, Petal Blizzard, Dazzling Gleam,",181,169,180,2539,2570,Johto,grass,,sunny/clear,,sunny/clear 
+183,Marill, water  fairy ," Tackle, Bubble, Bubble Beam, Aqua Tail, Body Slam,",172,37,93,521,528,Johto,water,fairy,rain,cloudy,rain cloudy
+184,Azumarill, water  fairy ," Rock Smash, Bubble, Play Rough, Hydro Pump, Ice Beam,",225,112,152,1795,1816,Johto,water,fairy,rain,cloudy,rain cloudy
+185,Sudowoodo, rock ," Rock Throw, Counter, Stone Edge, Earthquake, Rock Slide, Rock Tomb,",172,167,176,2428,2457,Johto,rock,,partly cloudy,,partly cloudy 
+186,Politoed, water ," Mud Shot, Bubble, Hydro Pump, Blizzard, Surf, Weather Ball Water,",207,174,179,2769,2802,Johto,water,,rain,,rain 
+187,Hoppip, grass  flying ," Tackle, Bullet Seed, Grass Knot, Dazzling Gleam, Seed Bomb,",111,67,94,678,686,Johto,grass,flying,sunny/clear,windy,sunny/clear windy
+188,Skiploom, grass  flying ," Tackle, Bullet Seed, Grass Knot, Dazzling Gleam, Energy Ball,",146,91,120,1103,1116,Johto,grass,flying,sunny/clear,windy,sunny/clear windy
+189,Jumpluff, grass  flying ," Infestation, Bullet Seed, Energy Ball, Dazzling Gleam, Solar Beam, Aerial Ace,",181,118,170,1788,1809,Johto,grass,flying,sunny/clear,windy,sunny/clear windy
+190,Aipom, normal ," Scratch, Astonish, Low Sweep, Swift, Aerial Ace,",146,136,112,1524,1542,Johto,normal,,partly cloudy,,partly cloudy 
+191,Sunkern, grass ," Razor Leaf, Cut, Energy Ball, Grass Knot, Seed Bomb,",102,55,55,447,452,Johto,grass,,sunny/clear,,sunny/clear 
+192,Sunflora, grass ," Razor Leaf, Bullet Seed, Solar Beam, Petal Blizzard, Sludge Bomb, Leaf Storm,",181,185,135,2421,2450,Johto,grass,,sunny/clear,,sunny/clear 
+193,Yanma, bug  flying ," Quick Attack, Wing Attack, Ancient Power, Aerial Ace, Silver Wind,",163,154,94,1662,1682,Johto,bug,flying,rain,windy,rain windy
+194,Wooper, water  ground ," Water Gun, Mud Shot, Mud Bomb, Dig, Body Slam,",146,75,66,725,734,Johto,water,ground,rain,sunny/clear,rain sunny/clear
+195,Quagsire, water  ground ," Water Gun, Mud Shot, Sludge Bomb, Earthquake, Stone Edge, Acid Spray,",216,152,143,2252,2279,Johto,water,ground,rain,sunny/clear,rain sunny/clear
+196,Espeon, psychic ," Confusion, Zen Headbutt, Psybeam, Psychic, Future Sight,",163,261,175,3584,3626,Johto,psychic,,windy,,windy 
+197,Umbreon, dark ," Feint Attack, Snarl, Dark Pulse, Foul Play,",216,126,240,2416,2445,Johto,dark,,fog,,fog 
+198,Murkrow, dark  flying ," Peck, Feint Attack, Drill Peck, Foul Play, Dark Pulse,",155,175,87,1766,1787,Johto,dark,flying,fog,windy,fog windy
+199,Slowking, water  psychic ," Water Gun, Confusion, Blizzard, Psychic, Fire Blast,",216,177,180,2877,2911,Johto,water,psychic,rain,windy,rain windy
+199,Slowking (Galarian Form), poison  psychic ," Confusion, Acid, Future Sight, Shadow Ball, Sludge Wave,",216,190,180,3072,3108,Johto,poison,psychic,cloudy,windy,cloudy windy
+200,Misdreavus, ghost ," Astonish, Hex, Shadow Sneak, Dark Pulse, Ominous Wind,",155,167,154,2178,2204,Johto,ghost,,fog,,fog 
+201,Unown, psychic ," Hidden Power, Struggle,",134,136,91,1340,1356,Johto,psychic,,windy,,windy 
+202,Wobbuffet, psychic ," Counter, Splash, Charm, Mirror Coat,",382,60,106,1160,1174,Johto,psychic,,windy,,windy 
+203,Girafarig, normal  psychic ," Tackle, Confusion, Psychic, Thunderbolt, Mirror Coat,",172,182,133,2314,2341,Johto,normal,psychic,partly cloudy,windy,partly cloudy windy
+204,Pineco, bug ," Tackle, Bug Bite, Gyro Ball, Rock Tomb, Sand Tomb,",137,108,122,1253,1268,Johto,bug,,rain,,rain 
+205,Forretress, bug  steel ," Bug Bite, Struggle Bug, Heavy Slam, Earthquake, Rock Tomb, Mirror Shot, Sand Tomb,",181,161,205,2580,2611,Johto,bug,steel,rain,snow,rain snow
+206,Dunsparce, normal ," Bite, Astonish, Dig, Rock Slide, Drill Run,",225,131,128,1909,1932,Johto,normal,,partly cloudy,,partly cloudy 
+207,Gligar, ground  flying ," Fury Cutter, Wing Attack, Dig, Aerial Ace, Night Slash,",163,143,184,2099,2124,Johto,ground,flying,sunny/clear,windy,sunny/clear windy
+208,Steelix, steel  ground ," Iron Tail, Dragon Tail, Thunder Fang, Earthquake, Heavy Slam, Crunch,",181,148,272,2729,2762,Johto,steel,ground,snow,sunny/clear,snow sunny/clear
+208,Mega Steelix, steel  ground ," Iron Tail, Dragon Tail, Thunder Fang, Earthquake, Heavy Slam, Crunch,",181,212,327,4149,4199,Johto,steel,ground,snow,sunny/clear,snow sunny/clear
+209,Snubbull, fairy ," Tackle, Bite, Crunch, Dazzling Gleam, Brick Break,",155,137,85,1399,1416,Johto,fairy,,cloudy,,cloudy 
+210,Granbull, fairy ," Bite, Snarl, Charm, Crunch, Play Rough, Close Combat,",207,212,131,2885,2920,Johto,fairy,,cloudy,,cloudy 
+211,Qwilfish, water  poison ," Poison Sting, Water Gun, Aqua Tail, Ice Beam, Sludge Wave, Acid Spray, Fell Stinger,",163,184,138,2318,2346,Johto,water,poison,rain,cloudy,rain cloudy
+211,Qwilfish (Hisuian Form) , dark  poison ,,163,184,151,2415,2444,Johto,dark,poison,fog,cloudy,fog cloudy
+212,Scizor, bug  steel ," Bullet Punch, Fury Cutter, X-Scissor, Iron Head, Night Slash,",172,236,181,3393,3433,Johto,bug,steel,rain,snow,rain snow
+212,Mega Scizor, bug  steel ," Bullet Punch, Fury Cutter, X-Scissor, Iron Head, Night Slash,",172,279,250,4621,4676,Johto,bug,steel,rain,snow,rain snow
+213,Shuckle, bug  rock ," Struggle Bug, Rock Throw, Rock Blast, Stone Edge, Gyro Ball,",85,17,396,458,463,Johto,bug,rock,rain,partly cloudy,rain partly cloudy
+214,Heracross, bug  fighting ," Counter, Struggle Bug, Megahorn, Close Combat, Earthquake, Rock Blast,",190,234,179,3506,3548,Johto,bug,fighting,rain,cloudy,rain cloudy
+214,Mega Heracross, bug  fighting ," Counter, Struggle Bug, Megahorn, Close Combat, Earthquake, Rock Blast,",190,334,223,5443,5508,Johto,bug,fighting,rain,cloudy,rain cloudy
+215,Sneasel, dark  ice ," Ice Shard, Feint Attack, Avalanche, Ice Punch, Foul Play,",146,189,146,2319,2346,Johto,dark,ice,fog,snow,fog snow
+215,Sneasel (Hisuian Form) , fighting  poison ,,146,189,146,2319,2346,Johto,fighting,poison,cloudy,cloudy,cloudy cloudy
+216,Teddiursa, normal ," Scratch, Lick, Cross Chop, Crunch, Play Rough,",155,142,93,1502,1519,Johto,normal,,partly cloudy,,partly cloudy 
+217,Ursaring, normal ," Metal Claw, Counter, Shadow Claw, Close Combat, Hyper Beam, Play Rough,",207,236,144,3329,3369,Johto,normal,,partly cloudy,,partly cloudy 
+218,Slugma, fire ," Ember, Rock Throw, Flame Burst, Flame Charge, Rock Slide,",120,118,71,1011,1023,Johto,fire,,sunny/clear,,sunny/clear 
+219,Magcargo, fire  rock ," Ember, Rock Throw, Incinerate, Heat Wave, Overheat, Stone Edge, Rock Tomb,",137,139,191,1924,1947,Johto,fire,rock,sunny/clear,partly cloudy,sunny/clear partly cloudy
+220,Swinub, ice  ground ," Tackle, Powder Snow, Icy Wind, Body Slam, Rock Slide,",137,90,69,837,847,Johto,ice,ground,snow,sunny/clear,snow sunny/clear
+221,Piloswine, ice  ground ," Ice Shard, Powder Snow, Avalanche, Bulldoze, Stone Edge,",225,181,138,2651,2683,Johto,ice,ground,snow,sunny/clear,snow sunny/clear
+222,Corsola (Only available at latitudes between 26 and 31° latitude), water  rock ," Tackle, Bubble, Rock Blast, Power Gem, Bubble Beam,",146,118,156,1558,1576,Johto,water,rock,rain,partly cloudy,rain partly cloudy
+222,Corsola (Galarian Form) , ghost ,,155,116,182,1692,1712,Johto,ghost,,fog,,fog 
+223,Remoraid, water ," Water Gun, Mud Shot, Aurora Beam, Water Pulse, Rock Blast,",111,127,69,1031,1043,Johto,water,,rain,,rain 
+224,Octillery, water ," Water Gun, Mud Shot, Lock-On, Gunk Shot, Water Pulse, Aurora Beam, Acid Spray, Octazooka,",181,197,141,2617,2648,Johto,water,,rain,,rain 
+225,Delibird, ice  flying ," Ice Shard, Quick Attack, Ice Punch, Icy Wind, Aerial Ace,",128,128,90,1237,1252,Johto,ice,flying,snow,windy,snow windy
+226,Mantine, water  flying ," Bubble, Wing Attack, Bullet Seed, Water Pulse, Ice Beam, Aerial Ace, Bubble Beam,",163,148,226,2383,2412,Johto,water,flying,rain,windy,rain windy
+227,Skarmory, steel  flying ," Steel Wing, Air Slash, Brave Bird, Sky Attack, Flash Cannon,",163,148,226,2383,2412,Johto,steel,flying,snow,windy,snow windy
+228,Houndour, dark  fire ," Feint Attack, Ember, Crunch, Flamethrower, Dark Pulse,",128,152,83,1395,1412,Johto,dark,fire,fog,sunny/clear,fog sunny/clear
+229,Houndoom, dark  fire ," Snarl, Fire Fang, Crunch, Fire Blast, Foul Play, Flamethrower,",181,224,144,2979,3014,Johto,dark,fire,fog,sunny/clear,fog sunny/clear
+229,Mega Houndoom, dark  fire ," Snarl, Fire Fang, Crunch, Fire Blast, Foul Play, Flamethrower,",181,289,194,4344,4396,Johto,dark,fire,fog,sunny/clear,fog sunny/clear
+230,Kingdra, water  dragon ," Waterfall, Dragon Breath, Hydro Pump, Blizzard, Outrage, Octazooka,",181,194,194,2986,3022,Johto,water,dragon,rain,windy,rain windy
+231,Phanpy, ground ," Tackle, Rock Smash, Bulldoze, Rock Slide, Body Slam,",207,107,98,1364,1380,Johto,ground,,sunny/clear,,sunny/clear 
+232,Donphan, ground ," Tackle, Counter, Mud Slap, Charm, Earthquake, Heavy Slam, Play Rough, Body Slam,",207,214,185,3407,3447,Johto,ground,,sunny/clear,,sunny/clear 
+233,Porygon2, normal ," Hidden Power, Charge Beam, Lock On, Solar Beam, Hyper Beam, Zap Cannon, Tri Attack,",198,198,180,3065,3101,Johto,normal,,partly cloudy,,partly cloudy 
+234,Stantler, normal ," Tackle, Zen Headbutt, Stomp, Wild Charge, Megahorn,",177,192,131,2447,2476,Johto,normal,,partly cloudy,,partly cloudy 
+235,Smeargle, normal ," Acid, Air Slash, Astonish, Bite, Bubble, Bug Bite, Bullet Punch, Bullet Seed, Charge Beam, Charm, Confusion, Counter, Cut, Dragon Breath, Dragon Tail, Ember, Extrasensory, Feint Attack, Fire Fang, Fire Spin, Frost Breath, Fury Cutter, Gust, Hex, Hidden Power, Ice Fang, Ice Shard, Incinerate, Infestation, Iron Tail, Karate Chop, Lick, Lock On, Low Kick, Metal Claw, Mud Shot, Mud Slap, Peck, Poison Jab, Poison Sting, Pound, Powder Snow, Present, Psycho Cut, Quick Attack, Razor Leaf, Rock Smash, Rock Throw, Scratch, Shadow Claw, Snarl, Spark, Splash, Steel Wing, Struggle Bug, Sucker Punch, Tackle, Take Down, Thunder Fang, Thunder Shock, Vine Whip, Volt Switch, Water Gun, Waterfall, Wing Attack, Yawn, Zen Headbutt, Acid Spray, Aerial Ace, Aeroblast, Air Cutter, Ancient Power, Aqua Jet, Aqua Tail, Aura Sphere, Aurora Beam, Avalanche, Blast Burn, Blaze Kick, Blizzard, Body Slam, Bone Club, Brave Bird, Brick Break, Brine, Bubble Beam, Bug Buzz, Bulldoze, Close Combat, Crabhammer, Cross Chop, Cross Poison, Crunch, Dark Pulse, Dazzling Gleam, Dig, Disarming Voice, Discharge, Doom Desire, Draco Meteor, Dragon Claw, Dragon Pulse, Draining Kiss, Drill Peck, Drill Run, Dynamic Punch, Earth Power, Earthquake, Energy Ball, Fell Stinger, Fire Blast, Fire Punch, Flame Burst, Flame Charge, Flame Wheel, Flamethrower, Flash Cannon, Flying Press, Focus Blast, Foul Play, Frenzy Plant, Future Sight, Giga Impact, Grass Knot, Gunk Shot, Gyro Ball, Heat Wave, Heavy Slam, Horn Attack, Hurricane, Hydro Cannon, Hydro Pump, Hyper Beam, Hyper Fang, Ice Beam, Ice Punch, Icy Wind, Iron Head, Last Resort, Leaf Blade, Leaf Tornado, Leech Life, Low Sweep, Lunge, Magnet Bomb, Megahorn, Meteor Mash, Mirror Coat, Mirror Shot, Moonblast, Mud Bomb, Muddy Water, Night Shade, Night Slash, Octazooka, Ominous Wind, Outrage, Overheat, Payback, Petal Blizzard, Play Rough, Poison Fang, Power Gem, Power-Up Punch, Power Whip, Psybeam, Psychic, Psycho Boost, Psyshock, Psystrike, Rock Blast, Rock Slide, Rock Tomb, Rock Wrecker, Sacred Sword, Sand Tomb, Scald, Seed Bomb, Shadow Ball, Shadow Bone, Shadow Punch, Shadow Sneak, Signal Beam, Silver Wind, Skull Bash, Sky Attack, Sludge, Sludge Bomb, Sludge Wave, Solar Beam, Stomp, Stone Edge, Struggle, Submission, Superpower, Surf, Swift, Synchronoise, Techno Blast, Techno Blast Electric, Techno Blast Fire, Techno Blast Ice, Techno Blast Water, Thunder, Thunder Punch, Thunderbolt, Tri Attack, Twister, V-create, Vice Grip, Water Pulse, Weather Ball Fire, Weather Ball Ice, Weather Ball Rock, Weather Ball Water, Wild Charge, Wrap, X-Scissor, Zap Cannon,",146,40,83,487,493,Johto,normal,,partly cloudy,,partly cloudy 
+236,Tyrogue, fighting ," Rock Smash, Tackle, Brick Break, Rock Slide, Low Sweep,",111,64,64,556,563,Johto,fighting,,cloudy,,cloudy 
+237,Hitmontop, fighting ," Rock Smash, Counter, Close Combat, Gyro Ball, Stone Edge,",137,173,207,2438,2467,Johto,fighting,,cloudy,,cloudy 
+238,Smoochum, ice  psychic ," Powder Snow, Pound, Ice Beam, Ice Punch, Psyshock,",128,153,91,1460,1477,Johto,ice,psychic,snow,windy,snow windy
+239,Elekid, electric ," Thunder Shock, Low Kick, Thunder Punch, Brick Break, Discharge,",128,135,101,1364,1380,Johto,electric,,rain,,rain 
+240,Magby, fire ," Ember, Karate Chop, Brick Break, Fire Punch, Flame Burst,",128,151,99,1496,1514,Johto,fire,,sunny/clear,,sunny/clear 
+241,Miltank, normal ," Tackle, Zen Headbutt, Stomp, Body Slam, Gyro Ball, Thunderbolt, Ice Beam,",216,157,193,2662,2693,Johto,normal,,partly cloudy,,partly cloudy 
+242,Blissey, normal ," Pound, Zen Headbutt, Psychic, Hyper Beam, Dazzling Gleam,",496,129,169,3117,3155,Johto,normal,,partly cloudy,,partly cloudy 
+243,Raikou, electric ," Thunder Shock, Volt Switch, Thunder, Thunderbolt, Wild Charge, Shadow Ball,",207,241,195,3902,3949,Johto,electric,,rain,,rain 
+244,Entei, fire ," Fire Spin, Fire Fang, Flamethrower, Fire Blast, Overheat, Iron Head, Flame Charge,",251,235,171,3926,3973,Johto,fire,,sunny/clear,,sunny/clear 
+245,Suicune, water ," Extrasensory, Snarl, Ice Fang, Hydro Pump, Bubble Beam, Water Pulse, Ice Beam,",225,180,235,3372,3412,Johto,water,,rain,,rain 
+246,Larvitar, rock  ground ," Bite, Rock Smash, Stomp, Crunch, Ancient Power,",137,115,93,1176,1190,Johto,rock,ground,partly cloudy,sunny/clear,partly cloudy sunny/clear
+247,Pupitar, rock  ground ," Bite, Rock Smash, Dig, Crunch, Ancient Power,",172,155,133,1997,2020,Johto,rock,ground,partly cloudy,sunny/clear,partly cloudy sunny/clear
+248,Tyranitar, rock  dark ," Bite, Iron Tail, Fire Blast, Crunch, Stone Edge,",225,251,207,4335,4387,Johto,rock,dark,partly cloudy,fog,partly cloudy fog
+248,Mega Tyranitar, rock  dark ," Bite, Iron Tail, Fire Blast, Crunch, Stone Edge,",225,309,276,6046,6118,Johto,rock,dark,partly cloudy,fog,partly cloudy fog
+249,Lugia, psychic  flying ," Extrasensory, Dragon Tail, Sky Attack, Hydro Pump, Future Sight,",235,193,310,4186,4236,Johto,psychic,flying,windy,windy,windy windy
+250,Ho-Oh, fire  flying ," Extrasensory, Steel Wing, Hidden Power, Incinerate, Brave Bird, Fire Blast, Solar Beam,",214,239,244,4367,4419,Johto,fire,flying,sunny/clear,windy,sunny/clear windy
+251,Celebi, psychic  grass ," Confusion, Charge Beam, Hyper Beam, Psychic, Dazzling Gleam, Seed Bomb, Leaf Storm,",225,210,210,3691,3735,Johto,psychic,grass,windy,sunny/clear,windy sunny/clear

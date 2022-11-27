@@ -1,0 +1,105 @@
+﻿num,name,poke_type,attacks,hp,attack,defense,max_cp,max_buddy_cp,region,type1,type2,boost1,boost2,boost
+722,Rowlet, grass  flying ," Tackle, Razor Leaf, Seed Bomb, Energy Ball,",169,102,99,1196,1210,Alola,grass,flying,sunny/clear,windy,sunny/clear windy
+723,Dartrix, grass  flying ," Peck, Razor Leaf, Seed Bomb, Energy Ball, Brave Bird,",186,142,139,1950,1973,Alola,grass,flying,sunny/clear,windy,sunny/clear windy
+724,Decidueye, grass  ghost ," Astonish, Razor Leaf, Shadow Sneak, Energy Ball, Brave Bird,",186,210,179,3137,3174,Alola,grass,ghost,sunny/clear,fog,sunny/clear fog
+724,Decidueye (Hisuian Form) , grass  fighting ,,204,213,174,3275,3314,Alola,grass,fighting,sunny/clear,cloudy,sunny/clear cloudy
+725,Litten, fire ," Scratch, Ember, Flamethrower, Flame Charge, Crunch,",128,128,79,1170,1184,Alola,fire,,sunny/clear,,sunny/clear 
+726,Torracat, fire ," Bite, Ember, Flamethrower, Flame Charge, Crunch,",163,174,103,1934,1957,Alola,fire,,sunny/clear,,sunny/clear 
+727,Incineroar, fire  dark ," Snarl, Fire Fang, Fire Blast, Flame Charge, Dark Pulse,",216,214,175,3387,3428,Alola,fire,dark,sunny/clear,fog,sunny/clear fog
+728,Popplio, water ," Pound, Water Gun, Aqua Jet, Water Pulse, Aqua Tail,",137,120,103,1276,1291,Alola,water,,rain,,rain 
+729,Brionne, water ," Charm, Water Gun, Aqua Jet, Water Pulse, Disarming Voice,",155,168,145,2131,2156,Alola,water,,rain,,rain 
+730,Primarina, water  fairy ," Charm, Waterfall, Psychic, Hydro Pump, Moonblast,",190,232,195,3618,3661,Alola,water,fairy,rain,cloudy,rain cloudy
+731,Pikipek, normal  flying ," Peck, Rock Smash, Drill Peck, Aerial Ace, Sky Attack,",111,136,59,1029,1041,Alola,normal,flying,partly cloudy,windy,partly cloudy windy
+732,Trumbeak, normal  flying ," Peck, Rock Smash, Drill Peck, Rock Blast, Sky Attack,",146,159,100,1671,1691,Alola,normal,flying,partly cloudy,windy,partly cloudy windy
+733,Toucannon, normal  flying ," Peck, Rock Smash, Bullet Seed, Drill Peck, Rock Blast, Flash Cannon,",190,222,146,3040,3076,Alola,normal,flying,partly cloudy,windy,partly cloudy windy
+734,Yungoos, normal ," Tackle, Bite, Hyper Fang, Crunch, Rock Tomb,",134,122,56,995,1006,Alola,normal,,partly cloudy,,partly cloudy 
+735,Gumshoos, normal ," Take Down, Bite, Hyper Fang, Crunch, Rock Tomb,",204,194,113,2470,2500,Alola,normal,,partly cloudy,,partly cloudy 
+736,Grubbin, bug ," Bug Bite, Spark, X Scissor, Vice Grip, Crunch,",132,115,85,1112,1126,Alola,bug,,rain,,rain 
+737,Charjabug, bug  electric ," Bug Bite, Spark, X Scissor, Discharge, Crunch,",149,145,161,1919,1942,Alola,bug,electric,rain,rain,rain rain
+738,Vikavolt, bug  electric ," Bug Bite, Spark, Mud Slap, X Scissor, Discharge, Crunch,",184,254,158,3524,3566,Alola,bug,electric,rain,rain,rain rain
+739,Crabrawler, fighting ," Rock Smash, Bubble, Power Up Punch, Crabhammer, Payback,",132,150,104,1540,1559,Alola,fighting,,cloudy,,cloudy 
+740,Crabominable, fighting  ice ," Rock Smash, Bubble, Power Up Punch, Crabhammer, Payback, Ice Punch,",219,231,138,3286,3325,Alola,fighting,ice,cloudy,snow,cloudy snow
+741,Oricorio, fire  flying ," Pound, Air Slash, Aerial Ace, Air Cutter, Hurricane,",181,196,145,2638,2669,Alola,fire,flying,sunny/clear,windy,sunny/clear windy
+741,Oricorio (Pom-Pom Style) , electric  flying ," Pound, Air Slash, Aerial Ace, Air Cutter, Hurricane,",181,196,145,2638,2669,Alola,electric,flying,rain,windy,rain windy
+741,Oricorio (Pa'u Style) , psychic  flying ," Pound, Air Slash, Aerial Ace, Air Cutter, Hurricane,",181,196,145,2638,2669,Alola,psychic,flying,windy,windy,windy windy
+741,Oricorio (Sensu Style) , ghost  flying ," Pound, Air Slash, Aerial Ace, Air Cutter, Hurricane,",181,196,145,2638,2669,Alola,ghost,flying,fog,windy,fog windy
+742,Cutiefly, bug  fairy ," Fairy Wind, Struggle Bug, Dazzling Gleam, Bug Buzz,",120,110,81,1004,1016,Alola,bug,fairy,rain,cloudy,rain cloudy
+743,Ribombee, bug  fairy ," Fairy Wind, Struggle Bug, Dazzling Gleam, Bug Buzz,",155,198,146,2488,2517,Alola,bug,fairy,rain,cloudy,rain cloudy
+744,Rockruff, rock ," Tackle, Rock Throw, Stone Edge, Rock Tomb, Crunch,",128,117,78,1074,1087,Alola,rock,,partly cloudy,,partly cloudy 
+745,Lycanroc , rock ," Sucker Punch, Rock Throw, Stone Edge, Drill Run, Crunch,",181,231,140,3027,3063,Alola,rock,,partly cloudy,,partly cloudy 
+745,Lycanroc  (Midnight Form) , rock ," Counter, Rock Throw, Stone Edge, Psychic Fangs, Crunch,",198,218,152,3103,3140,Alola,rock,,partly cloudy,,partly cloudy 
+745,Lycanroc (Dusk Form) , rock ," Sucker Punch, Counter, Rock Throw, Stone Edge, Iron Head, Crunch,",181,234,139,3054,3091,Alola,rock,,partly cloudy,,partly cloudy 
+746,Wishiwashi, water ," Water Gun, Waterfall, Iron Tail, Brine, Surf, Aqua Tail,",128,46,43,392,396,Alola,water,,rain,,rain 
+746,Wishiwashi (School Form) , water ," Water Gun, Waterfall, Iron Tail, Brine, Surf, Aqua Tail,",128,255,242,3654,3698,Alola,water,,rain,,rain 
+747,Mareanie, poison  water ," Poison Sting, Bite, Muddy Water, Gunk Shot, Sludge Wave,",137,98,110,1099,1112,Alola,poison,water,cloudy,rain,cloudy rain
+748,Toxapex, poison  water ," Poison Jab, Bite, Muddy Water, Gunk Shot, Sludge Wave,",137,114,273,1905,1928,Alola,poison,water,cloudy,rain,cloudy rain
+749,Mudbray, ground ," Mud Slap, Rock Smash, Bulldoze, Body Slam, Earthquake,",172,175,121,2139,2165,Alola,ground,,sunny/clear,,sunny/clear 
+750,Mudsdale, ground ," Mud Slap, Rock Smash, Bulldoze, Body Slam, Earthquake, Heavy Slam,",225,214,174,3443,3485,Alola,ground,,sunny/clear,,sunny/clear 
+751,Dewpider, water  bug ," Infestation, Bug Bite, Water Pulse, Bubble Beam, Mirror Coat,",116,72,117,807,817,Alola,water,bug,rain,rain,rain rain
+752,Araquanid, water  bug ," Infestation, Bug Bite, Bug Buzz, Bubble Beam, Mirror Coat,",169,126,219,2065,2090,Alola,water,bug,rain,rain,rain rain
+753,Fomantis, grass ," Razor Leaf, Fury Cutter, Leaf Blade, Energy Ball, Grass Knot,",120,100,64,838,848,Alola,grass,,sunny/clear,,sunny/clear 
+754,Lurantis, grass ," Razor Leaf, Fury Cutter, Leaf Blade, Leaf Storm, Superpower, X-Scissor,",172,192,169,2711,2743,Alola,grass,,sunny/clear,,sunny/clear 
+755,Morelull, grass  fairy ," Astonish, Giga Drain, Dazzling Gleam, Seed Bomb,",120,108,119,1168,1182,Alola,grass,fairy,sunny/clear,cloudy,sunny/clear cloudy
+756,Shiinotic, grass  fairy ," Astonish, Giga Drain, Moonblast, Seed Bomb, Sludge Bomb,",155,154,168,2104,2129,Alola,grass,fairy,sunny/clear,cloudy,sunny/clear cloudy
+757,Salandit, poison  fire ," Ember, Poison Jab, Poison Fang, Flamethrower, Dragon Pulse,",134,136,80,1268,1283,Alola,poison,fire,cloudy,sunny/clear,cloudy sunny/clear
+758,Salazzle, poison  fire ," Incinerate, Poison Jab, Poison Fang, Fire Blast, Dragon Pulse, Sludge Wave,",169,228,130,2802,2836,Alola,poison,fire,cloudy,sunny/clear,cloudy sunny/clear
+759,Stufful, normal  fighting ," Tackle, Take Down, Superpower, Brick Break, Stomp,",172,136,95,1529,1547,Alola,normal,fighting,partly cloudy,cloudy,partly cloudy cloudy
+760,Bewear, normal  fighting ," Tackle, Low Kick, Shadow Claw, Superpower, Payback, Stomp,",260,226,141,3524,3566,Alola,normal,fighting,partly cloudy,cloudy,partly cloudy cloudy
+761,Bounsweet, grass ," Razor Leaf, Charm, Energy Ball, Draining Kiss,",123,55,69,532,538,Alola,grass,,sunny/clear,,sunny/clear 
+762,Steenee, grass ," Razor Leaf, Charm, Energy Ball, Draining Kiss, Grass Knot,",141,78,94,856,866,Alola,grass,,sunny/clear,,sunny/clear 
+763,Tsareena, grass ," Razor Leaf, Charm, Magical Leaf, Energy Ball, Draining Kiss, Grass Knot, Stomp,",176,222,195,3351,3391,Alola,grass,,sunny/clear,,sunny/clear 
+764,Comfey, fairy ," Vine Whip, Hidden Power, Petal Blizzard, Grass Knot, Draining Kiss,",139,165,215,2392,2420,Alola,fairy,,cloudy,,cloudy 
+765,Oranguru, normal  psychic ," Confusion, Zen Headbutt, Yawn, Psychic, Foul Play, Future Sight,",207,168,192,2769,2803,Alola,normal,psychic,partly cloudy,windy,partly cloudy windy
+766,Passimian, fighting ," Counter, Rock Smash, Take Down, Brick Break, Close Combat, Super Power,",225,222,160,3429,3470,Alola,fighting,,cloudy,,cloudy 
+767,Wimpod, bug  water ," Struggle Bug, Bug Buzz,",93,67,74,567,574,Alola,bug,water,rain,rain,rain rain
+768,Golisopod, bug  water ," Fury Cutter, Metal Claw, Waterfall, X Scissor, Aqua Jet, Aerial Ace,",181,218,226,3575,3618,Alola,bug,water,rain,rain,rain rain
+769,Sandygast, ghost  ground ," Astonish, Mud Shot, Sand Tomb, Shadow Ball, Earth Power,",146,120,118,1394,1411,Alola,ghost,ground,fog,sunny/clear,fog sunny/clear
+770,Palossand, ghost  ground ," Astonish, Mud Shot, Sand Tomb, Shadow Ball, Earth Power,",198,178,178,2763,2796,Alola,ghost,ground,fog,sunny/clear,fog sunny/clear
+771,Pyukumuku, water ," Counter, Mirror Coat,",146,97,224,1551,1569,Alola,water,,rain,,rain 
+772,Type: Null, normal ," Tackle, Take Down, Tri Attack, Iron Head, Aerial Ace,",216,184,184,3012,3048,Alola,normal,,partly cloudy,,partly cloudy 
+773,Silvally, normal ," Tackle, Take Down, Bite, Tri Attack, Iron Head, Aerial Ace, X Scissor,",216,198,198,3336,3376,Alola,normal,,partly cloudy,,partly cloudy 
+774,Minior, rock  flying ," Rollout, Take Down, Power Gem, Ancient Power, Acrobatics,",155,116,194,1743,1764,Alola,rock,flying,partly cloudy,windy,partly cloudy windy
+774,Minior (Blue Core) , rock  flying ," Rollout, Take Down, Power Gem, Ancient Power, Acrobatics,",155,218,131,2591,2622,Alola,rock,flying,partly cloudy,windy,partly cloudy windy
+774,Minior (Green Core) , rock  flying ," Rollout, Take Down, Power Gem, Ancient Power, Acrobatics,",155,218,131,2591,2622,Alola,rock,flying,partly cloudy,windy,partly cloudy windy
+774,Minior (Indigo Core) , rock  flying ," Rollout, Take Down, Power Gem, Ancient Power, Acrobatics,",155,218,131,2591,2622,Alola,rock,flying,partly cloudy,windy,partly cloudy windy
+774,Minior (Orange Core) , rock  flying ," Rollout, Take Down, Power Gem, Ancient Power, Acrobatics,",155,218,131,2591,2622,Alola,rock,flying,partly cloudy,windy,partly cloudy windy
+774,Minior (Red Core) , rock  flying ," Rollout, Take Down, Power Gem, Ancient Power, Acrobatics,",155,218,131,2591,2622,Alola,rock,flying,partly cloudy,windy,partly cloudy windy
+774,Minior (Violet Core) , rock  flying ," Rollout, Take Down, Power Gem, Ancient Power, Acrobatics,",155,218,131,2591,2622,Alola,rock,flying,partly cloudy,windy,partly cloudy windy
+774,Minior (Yellow Core) , rock  flying ," Rollout, Take Down, Power Gem, Ancient Power, Acrobatics,",155,218,131,2591,2622,Alola,rock,flying,partly cloudy,windy,partly cloudy windy
+775,Komala, normal ," Rollout, Yawn, Play Rough, Bulldoze, Payback,",163,216,165,2919,2954,Alola,normal,,partly cloudy,,partly cloudy 
+776,Turtonator, fire  dragon ," Ember, Fire Spin, Overheat, Flamethrower, Dragon Pulse,",155,165,215,2513,2543,Alola,fire,dragon,sunny/clear,windy,sunny/clear windy
+777,Togedemaru, electric  steel ," Thunder Shock, Spark, Fell Stinger, Wild Charge, Gyro Ball,",163,190,145,2442,2472,Alola,electric,steel,rain,snow,rain snow
+778,Mimikyu, ghost  fairy ," Shadow Claw, Charm, Shadow Sneak, Play Rough, Shadow Ball,",146,177,199,2516,2546,Alola,ghost,fairy,fog,cloudy,fog cloudy
+779,Bruxish, water  psychic ," Water Gun, Confusion, Bite, Psychic Fangs, Aqua Tail, Crunch,",169,208,145,2701,2734,Alola,water,psychic,rain,windy,rain windy
+780,Drampa, normal  dragon ," Dragon Breath, Extrasensory, Outrage, Dragon Pulse, Fly,",186,231,164,3294,3333,Alola,normal,dragon,partly cloudy,windy,partly cloudy windy
+781,Dhelmise, ghost  grass ," Astonish, Shadow Claw, Power Whip, Shadow Ball, Heavy Slam,",172,233,179,3335,3375,Alola,ghost,grass,fog,sunny/clear,fog sunny/clear
+782,Jangmo-o, dragon ," Tackle, Dragon Tail, Dragon Claw, Brick Break, Dragon Pulse,",128,102,108,1095,1108,Alola,dragon,,windy,,windy 
+783,Hakamo-o, dragon  fighting ," Tackle, Dragon Tail, Dragon Claw, Brick Break, Dragon Pulse,",146,145,162,1907,1929,Alola,dragon,fighting,windy,cloudy,windy cloudy
+784,Kommo-o, dragon  fighting ," Poison Jab, Dragon Tail, Dragon Claw, Close Combat, Flamethrower,",181,222,240,3741,3785,Alola,dragon,fighting,windy,cloudy,windy cloudy
+785,Tapu Koko, electric  fairy ," Volt Switch, Quick Attack, Thunderbolt, Dazzling Gleam, Brave Bird, Thunder,",172,250,181,3582,3625,Alola,electric,fairy,rain,cloudy,rain cloudy
+786,Tapu Lele, psychic  fairy ," Confusion, Astonish, Psyshock, Moonblast, Focus Blast, Future Sight,",172,259,208,3950,3998,Alola,psychic,fairy,windy,cloudy,windy cloudy
+787,Tapu Bulu, grass  fairy ," Bullet Seed, Rock Smash, Grass Knot, Dazzling Gleam, Megahorn, Solar Beam,",172,249,215,3866,3912,Alola,grass,fairy,sunny/clear,cloudy,sunny/clear cloudy
+788,Tapu Fini, water  fairy ," Water Gun, Hidden Power, Surf, Moonblast, Ice Beam, Hydro Pump,",172,189,254,3230,3269,Alola,water,fairy,rain,cloudy,rain cloudy
+789,Cosmog, psychic ,,125,54,57,489,494,Alola,psychic,,windy,,windy 
+790,Cosmoem, psychic ,,125,54,242,924,935,Alola,psychic,,windy,,windy 
+791,Solgaleo, psychic  steel ,,264,255,191,4570,4625,Alola,psychic,steel,windy,snow,windy snow
+792,Lunala, psychic  ghost ,,264,255,191,4570,4625,Alola,psychic,ghost,windy,fog,windy fog
+793,Nihilego, rock  poison ," Acid, Pound, Power Gem, Gunk Shot, Sludge Bomb, Rock Slide,",240,249,210,4465,4518,Alola,rock,poison,partly cloudy,cloudy,partly cloudy cloudy
+794,Buzzwole, bug  fighting ," Counter, Poison Jab, Power Up Punch, Fell Stinger, Lunge, Super Power,",216,236,196,3912,3959,Alola,bug,fighting,rain,cloudy,rain cloudy
+795,Pheromosa, bug  fighting ," Bug Bite, Low Kick, Focus Blast, Bug Buzz, Lunge, Close Combat,",174,316,85,3213,3251,Alola,bug,fighting,rain,cloudy,rain cloudy
+796,Xurkitree, electric ," Thunder Shock, Spark, Discharge, Thunder, Power Whip, Dazzling Gleam,",195,330,144,4451,4504,Alola,electric,,rain,,rain 
+797,Celesteela, steel  flying ,,219,207,199,3507,3549,Alola,steel,flying,snow,windy,snow windy
+798,Kartana, grass  steel ,,139,323,182,4157,4206,Alola,grass,steel,sunny/clear,snow,sunny/clear snow
+799,Guzzlord, dark  dragon ,,440,188,99,3264,3303,Alola,dark,dragon,fog,windy,fog windy
+800,Necrozma, psychic ,,219,251,195,4163,4213,Alola,psychic,,windy,,windy 
+800,Necrozma (Dusk Mane) , psychic  steel ,,200,277,220,4634,4689,Alola,psychic,steel,windy,snow,windy snow
+800,Necrozma (Dawn Wings) , psychic  ghost ,,200,277,220,4634,4689,Alola,psychic,ghost,windy,fog,windy fog
+800,Ultra Necrozma, psychic  dragon ,,200,337,196,5293,5357,Alola,psychic,dragon,windy,windy,windy windy
+801,Magearna, steel  fairy ,,190,246,225,4087,4136,Alola,steel,fairy,snow,cloudy,snow cloudy
+801,Magearna (Original Color) , steel  fairy ,,190,246,225,4087,4136,Alola,steel,fairy,snow,cloudy,snow cloudy
+802,Marshadow, fighting  ghost ,,207,265,190,4217,4268,Alola,fighting,ghost,cloudy,fog,cloudy fog
+803,Poipole, poison ,,167,145,133,1854,1876,Alola,poison,,cloudy,,cloudy 
+804,Naganadel, poison  dragon ,,177,263,159,3587,3630,Alola,poison,dragon,cloudy,windy,cloudy windy
+805,Stakataka, rock  steel ,,156,213,298,3724,3769,Alola,rock,steel,partly cloudy,snow,partly cloudy snow
+806,Blacephalon, fire  ghost ,,142,315,148,3727,3772,Alola,fire,ghost,sunny/clear,fog,sunny/clear fog
+807,Zeraora, electric ,,204,252,177,3865,3912,Alola,electric,,rain,,rain 

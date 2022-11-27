@@ -1,0 +1,127 @@
+﻿num,name,poke_type,attacks,hp,attack,defense,max_cp,max_buddy_cp,region,type1,type2,boost1,boost2,boost
+387,Turtwig, grass ," Tackle, Razor Leaf, Energy Ball, Seed Bomb, Body Slam,",146,119,110,1342,1358,Sinnoh,grass,,sunny/clear,,sunny/clear 
+388,Grotle, grass ," Bite, Razor Leaf, Energy Ball, Solar Beam, Body Slam,",181,157,143,2137,2162,Sinnoh,grass,,sunny/clear,,sunny/clear 
+389,Torterra, grass  ground ," Bite, Razor Leaf, Stone Edge, Solar Beam, Earthquake, Sand Tomb,",216,202,188,3318,3357,Sinnoh,grass,ground,sunny/clear,sunny/clear,sunny/clear sunny/clear
+390,Chimchar, fire ," Ember, Scratch, Flame Wheel, Flamethrower, Flame Charge,",127,113,86,1082,1095,Sinnoh,fire,,sunny/clear,,sunny/clear 
+391,Monferno, fire  fighting ," Ember, Rock Smash, Flame Wheel, Flamethrower, Low Sweep,",162,158,105,1780,1801,Sinnoh,fire,fighting,sunny/clear,cloudy,sunny/clear cloudy
+392,Infernape, fire  fighting ," Fire Spin, Rock Smash, Solar Beam, Flamethrower, Close Combat,",183,222,151,3033,3070,Sinnoh,fire,fighting,sunny/clear,cloudy,sunny/clear cloudy
+393,Piplup, water ," Bubble, Pound, Bubble Beam, Drill Peck, Icy Wind,",142,112,102,1215,1229,Sinnoh,water,,rain,,rain 
+394,Prinplup, water ," Bubble, Metal Claw, Bubble Beam, Hydro Pump, Icy Wind,",162,150,139,1923,1946,Sinnoh,water,,rain,,rain 
+395,Empoleon, water  steel ," Waterfall, Metal Claw, Hydro Pump, Blizzard, Flash Cannon, Drill Peck,",197,210,186,3279,3318,Sinnoh,water,steel,rain,snow,rain snow
+396,Starly, normal  flying ," Tackle, Quick Attack, Aerial Ace, Brave Bird,",120,101,58,813,822,Sinnoh,normal,flying,partly cloudy,windy,partly cloudy windy
+397,Staravia, normal  flying ," Wing Attack, Quick Attack, Aerial Ace, Brave Bird, Heat Wave,",146,142,94,1468,1486,Sinnoh,normal,flying,partly cloudy,windy,partly cloudy windy
+398,Staraptor, normal  flying ," Wing Attack, Quick Attack, Brave Bird, Heat Wave, Close Combat,",198,234,140,3194,3232,Sinnoh,normal,flying,partly cloudy,windy,partly cloudy windy
+399,Bidoof, normal ," Tackle, Take Down, Hyper Fang, Crunch, Grass Knot,",153,80,73,815,825,Sinnoh,normal,,partly cloudy,,partly cloudy 
+400,Bibarel, normal  water ," Water Gun, Take Down, Hyper Fang, Hyper Beam, Surf,",188,162,119,2061,2085,Sinnoh,normal,water,partly cloudy,rain,partly cloudy rain
+401,Kricketot, bug ," Struggle Bug, Bug Bite, Struggle,",114,45,74,453,459,Sinnoh,bug,,rain,,rain 
+402,Kricketune, bug ," Struggle Bug, Fury Cutter, Bug Buzz, X-Scissor, Aerial Ace,",184,160,100,1869,1891,Sinnoh,bug,,rain,,rain 
+403,Shinx, electric ," Tackle, Spark, Discharge, Thunderbolt, Swift,",128,117,64,990,1002,Sinnoh,electric,,rain,,rain 
+404,Luxio, electric ," Spark, Bite, Thunderbolt, Wild Charge, Crunch,",155,159,95,1680,1700,Sinnoh,electric,,rain,,rain 
+405,Luxray, electric ," Spark, Snarl, Hidden Power, Hyper Beam, Wild Charge, Crunch,",190,232,156,3265,3304,Sinnoh,electric,,rain,,rain 
+406,Budew, grass  poison ," Hidden Power, Razor Leaf, Energy Ball, Grass Knot,",120,91,109,968,979,Sinnoh,grass,poison,sunny/clear,cloudy,sunny/clear cloudy
+407,Roserade, grass  poison ," Poison Jab, Razor Leaf, Solar Beam, Sludge Bomb, Dazzling Gleam, Grass Knot, Leaf Storm,",155,243,185,3359,3399,Sinnoh,grass,poison,sunny/clear,cloudy,sunny/clear cloudy
+408,Cranidos, rock ," Zen Headbutt, Take Down, Rock Tomb, Ancient Power, Bulldoze,",167,218,71,2058,2082,Sinnoh,rock,,partly cloudy,,partly cloudy 
+409,Rampardos, rock ," Zen Headbutt, Smack Down, Rock Slide, Outrage, Flamethrower,",219,295,109,3728,3773,Sinnoh,rock,,partly cloudy,,partly cloudy 
+410,Shieldon, rock  steel ," Tackle, Iron Tail, Rock Tomb, Ancient Power, Heavy Slam,",102,76,195,1007,1019,Sinnoh,rock,steel,partly cloudy,snow,partly cloudy snow
+411,Bastiodon, rock  steel ," Smack Down, Iron Tail, Stone Edge, Flamethrower, Flash Cannon,",155,94,286,1740,1761,Sinnoh,rock,steel,partly cloudy,snow,partly cloudy snow
+412,Burmy, bug ," Tackle, Quick Attack, Struggle,",120,53,83,552,558,Sinnoh,bug,,rain,,rain 
+412,Burmy (Sandy Cloak) , bug ,,120,53,83,552,558,Sinnoh,bug,,rain,,rain 
+412,Burmy (Trash Cloak) , bug ,,120,53,83,552,558,Sinnoh,bug,,rain,,rain 
+413,Wormadam, bug  grass ," Confusion, Bug Bite, Psybeam, Energy Ball, Bug Buzz,",155,141,180,2005,2029,Sinnoh,bug,grass,rain,sunny/clear,rain sunny/clear
+413,Wormadam (Sandy Cloak) , bug  ground ," Confusion, Bug Bite, Psybeam, Bulldoze, Bug Buzz,",155,141,180,2005,2029,Sinnoh,bug,ground,rain,sunny/clear,rain sunny/clear
+413,Wormadam (Trash Cloak) , bug  steel ," Confusion, Bug Bite, Psybeam, Iron Head, Bug Buzz,",155,127,175,1801,1823,Sinnoh,bug,steel,rain,snow,rain snow
+414,Mothim, bug  flying ," Air Slash, Bug Bite, Psybeam, Aerial Ace, Bug Buzz,",172,185,98,2052,2077,Sinnoh,bug,flying,rain,windy,rain windy
+415,Combee, bug  flying ," Bug Bite, Bug Buzz,",102,59,83,559,566,Sinnoh,bug,flying,rain,windy,rain windy
+416,Vespiquen, bug  flying ," Bug Bite, Poison Sting, Fury Cutter, Bug Buzz, Power Gem, X-Scissor, Fell Stinger, Air Slash, Signal Beam,",172,149,190,2267,2294,Sinnoh,bug,flying,rain,windy,rain windy
+417,Pachirisu, electric ," Spark, Volt Switch, Thunder, Thunderbolt, Thunder Punch,",155,94,172,1372,1388,Sinnoh,electric,,rain,,rain 
+418,Buizel, water ," Water Gun, Quick Attack, Aqua Jet, Water Pulse, Swift,",146,132,67,1192,1206,Sinnoh,water,,rain,,rain 
+419,Floatzel, water ," Water Gun, Waterfall, Aqua Jet, Hydro Pump, Swift,",198,221,114,2762,2795,Sinnoh,water,,rain,,rain 
+420,Cherubi, grass ," Tackle, Bullet Seed, Power Whip, Petal Blizzard, Seed Bomb,",128,108,92,1074,1087,Sinnoh,grass,,sunny/clear,,sunny/clear 
+421,Cherrim, grass ," Razor Leaf, Bullet Seed, Dazzling Gleam, Hyper Beam, Solar Beam,",172,170,153,2315,2342,Sinnoh,grass,,sunny/clear,,sunny/clear 
+421,Cherrim (Sunshine Form) , grass ," Razor Leaf, Bullet Seed, Dazzling Gleam, Hyper Beam, Solar Beam, Weather Ball Fire,",172,170,153,2315,2342,Sinnoh,grass,,sunny/clear,,sunny/clear 
+422,Shellos (West of Longitude 0), water ," Mud Slap, Hidden Power, Water Pulse, Mud Bomb, Body Slam,",183,103,105,1284,1299,Sinnoh,water,,rain,,rain 
+422,Shellos (East Sea - East of Longitude 0), water ," Mud Slap, Hidden Power, Water Pulse, Mud Bomb, Body Slam,",183,103,105,1284,1299,Sinnoh,water,,rain,,rain 
+423,Gastrodon (West of Longitude 0), water  ground ," Mud Slap, Hidden Power, Water Pulse, Earthquake, Body Slam, Earth Power,",244,169,143,2628,2659,Sinnoh,water,ground,rain,sunny/clear,rain sunny/clear
+423,Gastrodon (East Sea - East of Longitude 0), water  ground ," Mud Slap, Hidden Power, Water Pulse, Earthquake, Body Slam, Earth Power,",244,169,143,2628,2659,Sinnoh,water,ground,rain,sunny/clear,rain sunny/clear
+424,Ambipom, normal ," Scratch, Astonish, Low Sweep, Hyper Beam, Aerial Ace,",181,205,143,2733,2766,Sinnoh,normal,,partly cloudy,,partly cloudy 
+425,Drifloon, ghost  flying ," Hex, Astonish, Ominous Wind, Icy Wind, Shadow Ball,",207,117,80,1353,1369,Sinnoh,ghost,flying,fog,windy,fog windy
+426,Drifblim, ghost  flying ," Hex, Astonish, Ominous Wind, Icy Wind, Shadow Ball,",312,180,102,2693,2725,Sinnoh,ghost,flying,fog,windy,fog windy
+427,Buneary, normal ," Pound, Quick Attack, Fire Punch, Swift,",146,130,105,1423,1440,Sinnoh,normal,,partly cloudy,,partly cloudy 
+428,Lopunny, normal ," Pound, Low Kick, Fire Punch, Hyper Beam, Focus Blast,",163,156,194,2328,2356,Sinnoh,normal,,partly cloudy,,partly cloudy 
+428,Mega Lopunny, normal  fighting ," Pound, Low Kick, Fire Punch, Hyper Beam, Focus Blast,",163,282,214,4234,4284,Sinnoh,normal,fighting,partly cloudy,cloudy,partly cloudy cloudy
+429,Mismagius, ghost ," Sucker Punch, Hex, Shadow Ball, Dark Pulse, Dazzling Gleam,",155,211,187,2957,2992,Sinnoh,ghost,,fog,,fog 
+430,Honchkrow, dark  flying ," Peck, Snarl, Brave Bird, Psychic, Dark Pulse, Sky Attack,",225,243,103,3065,3102,Sinnoh,dark,flying,fog,windy,fog windy
+431,Glameow, normal ," Scratch, Quick Attack, Play Rough, Thunderbolt, Aerial Ace,",135,109,82,1056,1068,Sinnoh,normal,,partly cloudy,,partly cloudy 
+432,Purugly, normal ," Scratch, Shadow Claw, Play Rough, Thunder, Aerial Ace,",174,172,133,2208,2234,Sinnoh,normal,,partly cloudy,,partly cloudy 
+433,Chingling, psychic ," Zen Headbutt, Astonish, Wrap, Shadow Ball, Psyshock,",128,114,94,1137,1150,Sinnoh,psychic,,windy,,windy 
+434,Stunky, poison  dark ," Scratch, Bite, Crunch, Flamethrower, Sludge Bomb,",160,121,90,1301,1317,Sinnoh,poison,dark,cloudy,fog,cloudy fog
+435,Skuntank, poison  dark ," Poison Jab, Bite, Crunch, Flamethrower, Sludge Bomb,",230,184,132,2666,2698,Sinnoh,poison,dark,cloudy,fog,cloudy fog
+436,Bronzor, steel  psychic ," Tackle, Confusion, Gyro Ball, Psyshock, Heavy Slam, Payback,",149,43,154,681,689,Sinnoh,steel,psychic,snow,windy,snow windy
+437,Bronzong, steel  psychic ," Feint Attack, Confusion, Flash Cannon, Psychic, Heavy Slam, Bulldoze, Psyshock, Payback,",167,161,213,2531,2561,Sinnoh,steel,psychic,snow,windy,snow windy
+438,Bonsly, rock ," Rock Throw, Counter, Rock Tomb, Earthquake, Rock Slide,",137,124,133,1472,1489,Sinnoh,rock,,partly cloudy,,partly cloudy 
+439,Mime Jr., psychic  fairy ," Confusion, Pound, Psybeam, Psychic, Psyshock,",85,125,142,1238,1253,Sinnoh,psychic,fairy,windy,cloudy,windy cloudy
+440,Happiny, normal ," Pound, Zen Headbutt, Psychic,",225,25,77,419,424,Sinnoh,normal,,partly cloudy,,partly cloudy 
+441,Chatot, normal  flying ," Peck, Steel Wing, Night Shade, Sky Attack, Heat Wave,",183,183,91,2025,2049,Sinnoh,normal,flying,partly cloudy,windy,partly cloudy windy
+442,Spiritomb, ghost  dark ," Feint Attack, Sucker Punch, Shadow Sneak, Ominous Wind, Shadow Ball,",137,169,199,2343,2371,Sinnoh,ghost,dark,fog,fog,fog fog
+443,Gible, dragon  ground ," Take Down, Mud Shot, Dig, Twister, Body Slam,",151,124,84,1258,1273,Sinnoh,dragon,ground,windy,sunny/clear,windy sunny/clear
+444,Gabite, dragon  ground ," Take Down, Mud Shot, Dig, Twister, Flamethrower,",169,172,125,2119,2144,Sinnoh,dragon,ground,windy,sunny/clear,windy sunny/clear
+445,Garchomp, dragon  ground ," Dragon Tail, Mud Shot, Outrage, Earthquake, Fire Blast, Sand Tomb,",239,261,193,4479,4532,Sinnoh,dragon,ground,windy,sunny/clear,windy sunny/clear
+445,Mega Garchomp, dragon  ground ," Dragon Tail, Mud Shot, Outrage, Earthquake, Fire Blast, Sand Tomb,",239,339,222,6132,6205,Sinnoh,dragon,ground,windy,sunny/clear,windy sunny/clear
+446,Munchlax, normal ," Tackle, Lick, Gunk Shot, Body Slam, Bulldoze,",286,137,117,2139,2164,Sinnoh,normal,,partly cloudy,,partly cloudy 
+447,Riolu, fighting ," Counter, Quick Attack, Brick Break, Low Sweep, Cross Chop,",120,127,78,1123,1136,Sinnoh,fighting,,cloudy,,cloudy 
+448,Lucario, fighting  steel ," Counter, Bullet Punch, Flash Cannon, Shadow Ball, Close Combat, Power-Up Punch, Aura Sphere,",172,236,144,3056,3092,Sinnoh,fighting,steel,cloudy,snow,cloudy snow
+448,Mega Lucario, fighting  steel ," Counter, Bullet Punch, Flash Cannon, Shadow Ball, Close Combat, Power-Up Punch, Aura Sphere,",172,310,175,4325,4377,Sinnoh,fighting,steel,cloudy,snow,cloudy snow
+449,Hippopotas, ground ," Tackle, Bite, Dig, Rock Tomb, Body Slam,",169,124,118,1535,1553,Sinnoh,ground,,sunny/clear,,sunny/clear 
+450,Hippowdon, ground ," Fire Fang, Bite, Thunder Fang, Ice Fang, Earthquake, Stone Edge, Body Slam, Earth Power, Weather Ball Rock,",239,201,191,3488,3530,Sinnoh,ground,,sunny/clear,,sunny/clear 
+451,Skorupi, poison  bug ," Poison Sting, Infestation, Cross Poison, Aqua Tail, Sludge Bomb,",120,93,151,1141,1155,Sinnoh,poison,bug,cloudy,rain,cloudy rain
+452,Drapion, poison  dark ," Poison Sting, Infestation, Ice Fang, Crunch, Aqua Tail, Sludge Bomb, Fell Stinger,",172,180,202,2773,2806,Sinnoh,poison,dark,cloudy,fog,cloudy fog
+453,Croagunk, poison  fighting ," Poison Sting, Poison Jab, Brick Break, Low Sweep, Sludge Bomb,",134,116,76,1077,1089,Sinnoh,poison,fighting,cloudy,cloudy,cloudy cloudy
+454,Toxicroak, poison  fighting ," Poison Jab, Counter, Dynamic Punch, Mud Bomb, Sludge Bomb,",195,211,133,2813,2846,Sinnoh,poison,fighting,cloudy,cloudy,cloudy cloudy
+455,Carnivine, grass ," Bite, Vine Whip, Power Whip, Energy Ball, Crunch,",179,187,136,2441,2470,Sinnoh,grass,,sunny/clear,,sunny/clear 
+456,Finneon, water ," Pound, Water Gun, Water Pulse, Ice Beam, Silver Wind,",135,96,116,1098,1111,Sinnoh,water,,rain,,rain 
+457,Lumineon, water ," Waterfall, Water Gun, Water Pulse, Blizzard, Silver Wind,",170,142,170,2050,2075,Sinnoh,water,,rain,,rain 
+458,Mantyke, water  flying ," Bubble, Tackle, Water Pulse, Ice Beam, Aerial Ace,",128,105,179,1411,1428,Sinnoh,water,flying,rain,windy,rain windy
+459,Snover, grass  ice ," Powder Snow, Ice Shard, Ice Beam, Energy Ball, Stomp,",155,115,105,1310,1326,Sinnoh,grass,ice,sunny/clear,snow,sunny/clear snow
+460,Abomasnow, grass  ice ," Powder Snow, Razor Leaf, Blizzard, Energy Ball, Outrage, Weather Ball Ice,",207,178,158,2670,2702,Sinnoh,grass,ice,sunny/clear,snow,sunny/clear snow
+460,Mega Abomasnow, grass  ice ," Powder Snow, Razor Leaf, Blizzard, Energy Ball, Outrage, Weather Ball Ice,",207,240,191,3850,3896,Sinnoh,grass,ice,sunny/clear,snow,sunny/clear snow
+461,Weavile, dark  ice ," Ice Shard, Feint Attack, Snarl, Avalanche, Focus Blast, Foul Play,",172,243,171,3397,3438,Sinnoh,dark,ice,fog,snow,fog snow
+462,Magnezone, electric  steel ," Spark, Charge Beam, Zap Cannon, Wild Charge, Flash Cannon, Mirror Shot,",172,238,205,3623,3666,Sinnoh,electric,steel,rain,snow,rain snow
+463,Lickilicky, normal ," Lick, Zen Headbutt, Hyper Beam, Earthquake, Solar Beam, Shadow Ball,",242,161,181,2789,2822,Sinnoh,normal,,partly cloudy,,partly cloudy 
+464,Rhyperior, ground  rock ," Mud Slap, Smack Down, Surf, Earthquake, Stone Edge, Skull Bash, Superpower,",251,241,190,4221,4271,Sinnoh,ground,rock,sunny/clear,partly cloudy,sunny/clear partly cloudy
+465,Tangrowth, grass ," Vine Whip, Infestation, Ancient Power, Sludge Bomb, Solar Beam, Power Whip, Rock Slide,",225,207,184,3425,3466,Sinnoh,grass,,sunny/clear,,sunny/clear 
+466,Electivire, electric ," Thunder Shock, Low Kick, Thunder Punch, Wild Charge, Thunder, Ice Punch,",181,249,163,3481,3523,Sinnoh,electric,,rain,,rain 
+467,Magmortar, fire ," Fire Spin, Karate Chop, Brick Break, Fire Punch, Fire Blast, Psychic,",181,247,172,3541,3584,Sinnoh,fire,,sunny/clear,,sunny/clear 
+468,Togekiss, fairy  flying ," Air Slash, Hidden Power, Charm, Ancient Power, Dazzling Gleam, Aerial Ace, Flamethrower,",198,225,217,3767,3812,Sinnoh,fairy,flying,cloudy,windy,cloudy windy
+469,Yanmega, bug  flying ," Bug Bite, Wing Attack, Ancient Power, Aerial Ace, Bug Buzz,",200,231,156,3330,3370,Sinnoh,bug,flying,rain,windy,rain windy
+470,Leafeon, grass ," Razor Leaf, Quick Attack, Solar Beam, Leaf Blade, Energy Ball,",163,216,219,3328,3368,Sinnoh,grass,,sunny/clear,,sunny/clear 
+471,Glaceon, ice ," Ice Shard, Frost Breath, Avalanche, Icy Wind, Ice Beam,",163,238,205,3535,3577,Sinnoh,ice,,snow,,snow 
+472,Gliscor, ground  flying ," Fury Cutter, Wing Attack, Earthquake, Aerial Ace, Night Slash, Sand Tomb,",181,185,222,3043,3080,Sinnoh,ground,flying,sunny/clear,windy,sunny/clear windy
+473,Mamoswine, ice  ground ," Mud Slap, Powder Snow, Avalanche, Bulldoze, Stone Edge,",242,247,146,3763,3808,Sinnoh,ice,ground,snow,sunny/clear,snow sunny/clear
+474,Porygon-Z, normal ," Hidden Power, Charge Beam, Lock On, Solar Beam, Hyper Beam, Zap Cannon, Blizzard,",198,264,150,3693,3737,Sinnoh,normal,,partly cloudy,,partly cloudy 
+475,Gallade, psychic  fighting ," Confusion, Low Kick, Charm, Close Combat, Psychic, Leaf Blade,",169,237,195,3497,3539,Sinnoh,psychic,fighting,windy,cloudy,windy cloudy
+475,Mega Gallade, psychic  fighting ," Confusion, Low Kick, Charm, Close Combat, Psychic, Leaf Blade,",169,326,230,5112,5173,Sinnoh,psychic,fighting,windy,cloudy,windy cloudy
+476,Probopass, rock  steel ," Rock Throw, Spark, Magnet Bomb, Rock Slide, Thunderbolt,",155,135,275,2351,2379,Sinnoh,rock,steel,partly cloudy,snow,partly cloudy snow
+477,Dusknoir, ghost ," Hex, Astonish, Ominous Wind, Psychic, Dark Pulse,",128,180,254,2700,2732,Sinnoh,ghost,,fog,,fog 
+478,Froslass, ice  ghost ," Powder Snow, Hex, Avalanche, Crunch, Shadow Ball,",172,171,150,2306,2334,Sinnoh,ice,ghost,snow,fog,snow fog
+479,Rotom, electric  ghost ," Astonish, Thunder Shock, Ominous Wind, Thunderbolt, Thunder,",137,185,159,2296,2324,Sinnoh,electric,ghost,rain,fog,rain fog
+479,Rotom (Fan Rotom) , electric  flying ," Astonish, Air Slash, Ominous Wind, Thunderbolt, Thunder,",137,204,219,2916,2951,Sinnoh,electric,flying,rain,windy,rain windy
+479,Rotom (Frost Rotom) , electric  ice ," Astonish, Thunder Shock, Blizzard, Thunderbolt, Thunder,",137,204,219,2916,2951,Sinnoh,electric,ice,rain,snow,rain snow
+479,Rotom (Heat Rotom) , electric  fire ," Astonish, Thunder Shock, Overheat, Thunderbolt, Thunder,",137,204,219,2916,2951,Sinnoh,electric,fire,rain,sunny/clear,rain sunny/clear
+479,Rotom (Mow Rotom) , electric  grass ," Astonish, Thunder Shock, Ominous Wind, Thunderbolt, Thunder,",137,204,219,2916,2951,Sinnoh,electric,grass,rain,sunny/clear,rain sunny/clear
+479,Rotom (Wash Rotom) , electric  water ," Astonish, Thunder Shock, Hydro Pump, Thunderbolt, Thunder,",137,204,219,2916,2951,Sinnoh,electric,water,rain,rain,rain rain
+480,Uxie, psychic ," Confusion, Extrasensory, Future Sight, Swift, Thunder,",181,156,270,2853,2887,Sinnoh,psychic,,windy,,windy 
+481,Mesprit, psychic ," Confusion, Extrasensory, Future Sight, Swift, Blizzard,",190,212,212,3457,3499,Sinnoh,psychic,,windy,,windy 
+482,Azelf, psychic ," Confusion, Extrasensory, Future Sight, Swift, Fire Blast,",181,270,151,3629,3673,Sinnoh,psychic,,windy,,windy 
+483,Dialga, steel  dragon ," Dragon Breath, Metal Claw, Draco Meteor, Iron Head, Thunder,",205,275,211,4565,4620,Sinnoh,steel,dragon,snow,windy,snow windy
+484,Palkia, water  dragon ," Dragon Breath, Dragon Tail, Draco Meteor, Fire Blast, Hydro Pump, Aqua Tail,",189,280,215,4512,4565,Sinnoh,water,dragon,rain,windy,rain windy
+485,Heatran, fire  steel ," Fire Spin, Bug Bite, Fire Blast, Iron Head, Stone Edge, Flamethrower,",209,251,213,4244,4295,Sinnoh,fire,steel,sunny/clear,snow,sunny/clear snow
+486,Regigigas, normal ," Zen Headbutt, Hidden Power, Giga Impact, Focus Blast, Thunder,",221,287,210,4913,4972,Sinnoh,normal,,partly cloudy,,partly cloudy 
+487,Giratina, ghost  dragon ," Dragon Breath, Shadow Claw, Dragon Claw, Ancient Power, Shadow Sneak,",284,187,225,3820,3866,Sinnoh,ghost,dragon,fog,windy,fog windy
+487,Giratina (Origin Forme) , ghost  dragon ," Dragon Tail, Shadow Claw, Dragon Pulse, Ominous Wind, Shadow Ball,",284,225,187,4164,4214,Sinnoh,ghost,dragon,fog,windy,fog windy
+488,Cresselia, psychic ," Psycho Cut, Confusion, Aurora Beam, Moonblast, Future Sight,",260,152,258,3231,3269,Sinnoh,psychic,,windy,,windy 
+489,Phione, water ," Waterfall, Bubble, Bubble Beam, Water Pulse, Surf,",190,162,162,2380,2409,Sinnoh,water,,rain,,rain 
+490,Manaphy, water ," Waterfall, Bubble, Bubble Beam, Psychic, Surf,",225,210,210,3691,3735,Sinnoh,water,,rain,,rain 
+491,Darkrai, dark ," Snarl, Feint Attack, Focus Blast, Shadow Ball, Dark Pulse,",172,285,198,4227,4278,Sinnoh,dark,,fog,,fog 
+492,Shaymin, grass ," Hidden Power, Zen Headbutt, Energy Ball, Grass Knot, Solar Beam, Seed Flare,",225,210,210,3691,3735,Sinnoh,grass,,sunny/clear,,sunny/clear 
+492,Shaymin (Sky Forme) , grass  flying ," Hidden Power, Zen Headbutt, Energy Ball, Grass Knot, Solar Beam, Seed Flare,",225,261,166,4061,4110,Sinnoh,grass,flying,sunny/clear,windy,sunny/clear windy
+493,Arceus, normal ," Iron Tail, Shadow Claw, Future Sight, Hyper Beam, Outrage,",237,238,238,4510,4564,Sinnoh,normal,,partly cloudy,,partly cloudy 
