@@ -1,5 +1,15 @@
+/target/
+
+# IDEA
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
+
 ### Python template
 # Byte-compiled / optimized / DLL files
+
 __pycache__/
 *.py[cod]
 *$py.class
