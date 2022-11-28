@@ -14,7 +14,6 @@ class WeatherApi:
         self.longitude = str(longitude)
         self.headers = {"Connection": "keep-alive", "User-Agent": HeaderInfo.USER_INFO}
         self.international_uri = Uri.INTERNATIONAL_WEATHER_URI + "lat=" + self.latitude + "&lon=" + self.longitude + Uri.URI_QUERY_PARAMS + KeyConstants.APK_KEY
-        #self.international_uri = Uri.INTERNATIONAL_WEATHER_URI + "lat=" + self.latitude + "&lon=" + self.longitude + "&appid=" + KeyConstants.APK_KEY
 
     def get_weather(self):
         weather_api_response = self.get_data_from_weather_dot_gov(
@@ -107,7 +106,6 @@ class WeatherApi:
 
         if general_info_response[1].status_code == 200 and general_info_response[0].get('weather')[0]:
             gen_forecast_json = {
-                #main_key: str(general_info_response[0].get('current').get('weather')[0].get('src')),
                 description_key: str(
                     general_info_response[0].get('weather')[0].get('description')),
                 temp_key: str(general_info_response[0].get('main').get('temp'))}
@@ -207,9 +205,6 @@ class WeatherApi:
         return alert_json
 
     def get_weather_for_international_location(self, my_response, my_url):
-        # intl_keys = ["time_zone", "dt", "src", "description", "temp", "feels_like", "humidity", "uvi",
-        #              "wind_speed"]
-
         intl_keys = ["name", "dt", "description", "temp", "feels_like", "humidity", "wind_speed", "country"]
 
         error_msg_key = "message"
