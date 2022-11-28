@@ -14,9 +14,11 @@ class WeatherApi:
         self.longitude = str(longitude)
         self.headers = {"Connection": "keep-alive", "User-Agent": HeaderInfo.USER_INFO}
         self.international_uri = Uri.INTERNATIONAL_WEATHER_URI + "lat=" + self.latitude + "&lon=" + self.longitude + Uri.URI_QUERY_PARAMS + KeyConstants.APK_KEY
+        #self.international_uri = Uri.INTERNATIONAL_WEATHER_URI + "lat=" + self.latitude + "&lon=" + self.longitude + "&appid=" + KeyConstants.APK_KEY
 
     def get_weather(self):
-        weather_api_response = self.get_data_from_weather_dot_gov(Uri.US_WEATHER_URI + self.latitude + "," + self.longitude)
+        weather_api_response = self.get_data_from_weather_dot_gov(
+            Uri.US_WEATHER_URI + self.latitude + "," + self.longitude)
         if weather_api_response[1].status_code == 200 and weather_api_response[0].get('properties'):
 
             location_key = "location"
@@ -47,7 +49,8 @@ class WeatherApi:
         # This means we need to check a different API
         elif weather_api_response[1].status_code == 404 and weather_api_response[0].get(
                 'title') == "Data Unavailable For Requested Point":
-            final_weather_json = self.get_weather_for_international_location(weather_api_response, self.international_uri)
+            final_weather_json = self.get_weather_for_international_location(weather_api_response,
+                                                                             self.international_uri)
             my_status_code = 200
         # For all other status codes, print the status code and message (detail field)
         else:
@@ -102,12 +105,12 @@ class WeatherApi:
         error_key = "error"
         error_msg = "DATA NOT AVAILABLE"
 
-        if general_info_response[1].status_code == 200 and general_info_response[0].get('current').get('weather')[0].get('src'):
+        if general_info_response[1].status_code == 200 and general_info_response[0].get('weather')[0]:
             gen_forecast_json = {
-                main_key: str(general_info_response[0].get('current').get('weather')[0].get('src')),
+                #main_key: str(general_info_response[0].get('current').get('weather')[0].get('src')),
                 description_key: str(
-                    general_info_response[0].get('current').get('weather')[0].get('description')),
-                temp_key: str(general_info_response[0].get('current').get('temp'))}
+                    general_info_response[0].get('weather')[0].get('description')),
+                temp_key: str(general_info_response[0].get('main').get('temp'))}
         else:
             gen_forecast_json = {error_key: error_msg}
 
@@ -204,8 +207,11 @@ class WeatherApi:
         return alert_json
 
     def get_weather_for_international_location(self, my_response, my_url):
-        intl_keys = ["time_zone", "dt", "src", "description", "temp", "feels_like", "humidity", "uvi",
-                     "wind_speed"]
+        # intl_keys = ["time_zone", "dt", "src", "description", "temp", "feels_like", "humidity", "uvi",
+        #              "wind_speed"]
+
+        intl_keys = ["name", "dt", "description", "temp", "feels_like", "humidity", "wind_speed", "country"]
+
         error_msg_key = "message"
         error_msg = "ERROR"
         location_key = "location"
@@ -220,31 +226,31 @@ class WeatherApi:
 
         international_response = self.get_data_from_open_weather_map(my_url)
 
-        if international_response[1].status_code == 200 and international_response[0].get('current').get('weather')[0].get('main'):
+        if international_response[1].status_code == 200 and international_response[0].get('weather')[0]:
             intnatl_json = {intnat_api_info_key: {no_data_msg_key: my_response[0].get('detail'),
                                                   check_intnat_api_msg_key: check_intnat_api_msg},
-                            location_key: {intl_keys[0]: str(international_response[0].get('timezone')),
-                                           intl_keys[1]: str(
-                                               international_response[0].get('current').get(intl_keys[1]))},
+                            location_key: {intl_keys[0]: str(international_response[0].get(intl_keys[0])),
+                                           intl_keys[1]: str(international_response[0].get(intl_keys[1])),
+                                           intl_keys[7]: str(international_response[0].get("sys").get(intl_keys[7]))},
                             gen_forecast_key: {intl_keys[2]: str(
-                                international_response[0].get('current').get('weather')[0].get(intl_keys[2])),
+                                international_response[0].get('weather')[0].get(intl_keys[2])),
                                 intl_keys[3]: str(
-                                    international_response[0].get('current').get('weather')[0].get(
+                                    international_response[0].get('main').get(
                                         intl_keys[3])),
                                 intl_keys[4]: str(
-                                    international_response[0].get('current').get(intl_keys[4]))},
+                                    international_response[0].get(intl_keys[4]))},
                             forecast_key: {
-                                intl_keys[4]: str(international_response[0].get('current').get(intl_keys[4])),
-                                intl_keys[5]: str(international_response[0].get('current').get(intl_keys[5])),
-                                intl_keys[6]: str(international_response[0].get('current').get(intl_keys[6])),
-                                intl_keys[7]: str(international_response[0].get('current').get(intl_keys[7])),
-                                intl_keys[2]: str(international_response[0].get('current').get('weather')[0].get(
+                                intl_keys[4]: str(international_response[0].get('main').get(intl_keys[4])),
+                                intl_keys[5]: str(international_response[0].get(intl_keys[5])),
+                                intl_keys[6]: str(international_response[0].get(intl_keys[6])),
+                                intl_keys[2]: str(international_response[0].get('weather')[0].get(
                                     intl_keys[2])),
                                 intl_keys[3]: str(
-                                    international_response[0].get('current').get('weather')[0].get(intl_keys[3]))
+                                    international_response[0].get('weather')[0].get(intl_keys[3]))
                             }}
 
         else:
-            intnatl_json = {error_msg_key: error_msg}
+            intnatl_json = {error_msg_key: error_msg,
+                            "status_code": international_response[1].status_code}
 
         return intnatl_json

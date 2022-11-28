@@ -4,7 +4,7 @@ from enum import Enum
 class Uri(str, Enum):
     US_WEATHER_URI = "https://api.weather.gov/points/"
 
-    INTERNATIONAL_WEATHER_URI = "https://api.openweathermap.org/data/2.5/onecall?"
+    INTERNATIONAL_WEATHER_URI = "https://api.openweathermap.org/data/2.5/weather?"
 
     US_WEATHER_ALERTS_URI = "https://api.weather.gov/alerts/active?point="
 
