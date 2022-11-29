@@ -205,7 +205,7 @@ class WeatherApi:
         return alert_json
 
     def get_weather_for_international_location(self, my_response, my_url):
-        intl_keys = ["name", "dt", "description", "temp", "feels_like", "humidity", "wind_speed", "country"]
+        intl_keys = ["name", "dt", "description", "temp", "feels_like", "humidity", "speed", "country"]
 
         error_msg_key = "message"
         error_msg = "ERROR"
@@ -233,15 +233,15 @@ class WeatherApi:
                                     international_response[0].get('main').get(
                                         intl_keys[3])),
                                 intl_keys[4]: str(
-                                    international_response[0].get(intl_keys[4]))},
+                                    international_response[0].get('main').get(intl_keys[4]))},
                             forecast_key: {
                                 intl_keys[4]: str(international_response[0].get('main').get(intl_keys[4])),
-                                intl_keys[5]: str(international_response[0].get(intl_keys[5])),
-                                intl_keys[6]: str(international_response[0].get(intl_keys[6])),
+                                intl_keys[5]: str(international_response[0].get('main').get(intl_keys[5])),
+                                intl_keys[6]: str(international_response[0].get('wind').get(intl_keys[6])),
                                 intl_keys[2]: str(international_response[0].get('weather')[0].get(
                                     intl_keys[2])),
                                 intl_keys[3]: str(
-                                    international_response[0].get('weather')[0].get(intl_keys[3]))
+                                    international_response[0].get('main').get(intl_keys[3]))
                             }}
 
         else:
