@@ -7,7 +7,7 @@ This repo contains a few projects (Python and Data Science).
 notebooks:
 * PokemonWebScraping: used to gather data via scraping the site [serebii.net](https://serebii.net/pokemongo/). Each page is scraped, the data is converted into a pandas data frame, and then saved as a csv file.  
 * CreatePokedexDatabase uses the csv files created by PokemonWebScraping to create a sqlite database.  
-* 
+
 database: Pokemon database created by CreatePokedexDatabase  
 This directory also contains csv files created by the notebook PokemonWebScraping  
 <br>
