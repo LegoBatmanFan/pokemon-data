@@ -19,7 +19,7 @@ The interactive map does not render in Github, but you can view it in [nbviewer]
 Check out this [link](https://stackoverflow.com/questions/53240378/folium-map-fail-to-render-in-notebook-on-github) from stackoverflow.
 <br>
 <br>  
-**pokedex contents:**
+**pokedex contents:**  
 The directory contains the code for an API that will eventually be used to predict Pokemon spawns based upon current weather conditions for specific GPS coordinates. Currently, the API gets the weather from [weather.gov](https://www.weather.gov/documentation/services-web-api) and [openweathermap.org](https://openweathermap.org/) and determines the weather boost. The weather boost can be used to predict the type of Pokemon spawn.
 
 An [API key](https://openweathermap.org/api) from openweathermap.org is required for the API to function properly.
