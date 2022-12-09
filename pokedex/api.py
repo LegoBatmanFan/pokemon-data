@@ -1,8 +1,7 @@
-from flask import Flask, jsonify
-# from flask_restplus import Api, Resource
-from flask_restx import Api, Resource
-from src.controller.getweatheronly import GetWeatherOnly
-from src.controller.getweatherandboost import GetWeatherAndBoost
+from flask import Flask
+from flask_restx import Api
+from src.controller.pokemoninfo import GetWeatherOnly
+from src.controller.pokemoninfo import GetWeatherAndBoost
 
 
 flask_app = Flask(__name__)
